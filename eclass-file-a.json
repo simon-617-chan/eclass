@@ -1,0 +1,33 @@
+{
+"calendar": [
+{"date": "2026-10-18", "detail": "Holiday", "title": "Chung Yeung Festival"},
+{"date": "2026-10-19", "detail": "Holiday", "title": "The day following Chung Yeung Festival"},
+{"date": "2026-10-23", "detail": "School event", "title": "P.1-6 School Outreach Vaccination"},
+{"date": "2026-11-02", "detail": "School event", "title": "Half Day School"},
+{"date": "2026-11-03", "detail": "School event", "title": "Half Day School"},
+{"date": "2026-11-04", "detail": "Academic event", "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},
+{"date": "2026-11-05", "detail": "Academic event", "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},
+{"date": "2026-11-06", "detail": "School event", "title": "HKE Swimming Competition"},
+{"date": "2026-11-06", "detail": "Holiday", "title": "Staff Development Day (No School)"},
+{"date": "2026-11-09", "detail": "Academic event", "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},
+{"date": "2026-11-10", "detail": "Academic event", "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},
+{"date": "2026-11-11", "detail": "School event", "title": "Semester 2 begins"},
+{"date": "2026-11-11", "detail": "School event", "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"},
+{"date": "2026-11-12", "detail": "School event", "title": "Half Day School"},
+{"date": "2026-11-13", "detail": "School event", "title": "Half Day School"}
+],
+"className": "1A",
+"homeworkImageDate": "2026-10-16",
+"homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+"homeworkToday": [],
+"notices": [
+{"attachmentUrl": "https://drive.google.com/file/d/1K1ERZxzL6wihOmv3Gfvt92YEoMCbn-7P/preview", "date": "2026-10-16", "deadline": "2026-10-26", "id": "P2026-005", "needsSign": true, "signedAt": "2026-10-16 17:54:31", "status": "signed", "summary": "Notice P2026-005, issued 2026-10-16, reply deadline 2026-10-26. Announcement of Election Result for Parent Manager Election 2026-2027.", "title": "Announcement of Election Result for Parent Manager Election 2026-2027"},
+{"attachmentUrl": "https://drive.google.com/file/d/1N9A4tEZClUNGmriN1PlqIXC35XLryQsU/preview", "date": "2026-10-16", "deadline": "2026-10-23", "id": "C2026-081", "needsSign": true, "signedAt": "2026-10-16 17:53:10", "status": "signed", "summary": "Notice C2026-081, issued 2026-10-16, reply deadline 2026-10-23. Order of the Prayer Book –《牙牙語》.", "title": "Order of the Prayer Book –《牙牙語》"},
+{"attachmentUrl": "https://drive.google.com/file/d/1TiQM_WBck-qTcVFfltRQMC1eV0K4yYde/preview", "date": "2026-10-16", "deadline": "2026-10-26", "id": "C2026-080", "needsSign": true, "signedAt": "2026-10-16 17:52:37", "status": "signed", "summary": "Notice C2026-080, issued 2026-10-16, reply deadline 2026-10-26. Morning Mass 2026-2027.", "title": "Morning Mass 2026-2027"},
+{"attachmentUrl": "https://drive.google.com/file/d/1QozGOu_OjSO9_jFNYgpTS9G88WlRiaC1/preview", "date": "2026-10-13", "deadline": "2026-10-28", "id": "C2026-077", "needsSign": true, "signedAt": "2026-10-14 21:40:15", "status": "signed", "summary": "Notice C2026-077, issued 2026-10-13, reply deadline 2026-10-28. Sales of Caritas' Charity Raffle Tickets.", "title": "Sales of Caritas' Charity Raffle Tickets"},
+{"attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview", "date": "2026-09-29", "deadline": "2026-10-30", "id": "C2026-065", "needsSign": true, "signedAt": "2026-09-30 06:35:28", "status": "signed", "summary": "Notice C2026-065, issued 2026-09-29, reply deadline 2026-10-30. Invitation to Star Reading Chinese Story Writing Competition.", "title": "Invitation to \"Star Reading\" Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）"}
+],
+"retrieved_at": {"user_local": "2026-10-18T21:35:24.528+08:00", "user_timezone": "Asia/Hong_Kong", "utc": "2026-10-18T13:35:24.528Z"},
+"studentName": "CHAN ON KIU SOPHELIA",
+"syncedAt": "2026-10-18T10:06:00Z"
+}
