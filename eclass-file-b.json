@@ -1,89 +1,100 @@
 {
   "studentName": "CHAN HONG KIU SOPHIANNA",
   "className": "6B",
-  "syncedAt": "2026-10-20T12:14:00Z",
+  "syncedAt": "2026-10-21T08:03:57Z",
   "notices": [
     {
-      "id": "C2026-086",
-      "attachmentUrl": "https://drive.google.com/file/d/1ih9Al3G-04WNnn2xAR_NITmytRWRsV6q/view",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
+      "id": "C2026-087-A",
+      "title": "Register as SSPA e-Platform users (建立「中一派位電子平台」家長帳戶)",
+      "date": "2026-10-21",
+      "deadline": "2026-10-27",
+      "status": "pending",
       "needsSign": true,
       "signedAt": null,
-      "status": "pending",
-      "summary": "Notice C2026-086, reply deadline 2026-11-23. Awaiting signature.",
-      "title": "MSS MPS Centenary Raffle Tickets Sale"
+      "summary": "Notice C2026-087-A, reply deadline 2026-10-27. Awaiting sign.",
+      "attachmentUrl": "https://drive.google.com/file/d/1Hv6PQ95eo1igegWZfpkAzqy2j463aGzx/view"
+    },
+    {
+      "id": "C2026-086",
+      "title": "MSS MPS Centenary Raffle Tickets Sale",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "status": "signed",
+      "needsSign": true,
+      "signedAt": "2026-10-20 20:43:19",
+      "summary": "Notice C2026-086, reply deadline 2026-11-23. Signed 2026-10-20 20:43:19.",
+      "attachmentUrl": "https://drive.google.com/file/d/1ih9Al3G-04WNnn2xAR_NITmytRWRsV6q/view"
     },
     {
       "id": "C2026-085",
-      "attachmentUrl": "https://drive.google.com/file/d/1WTFMP925BrSj0eSh_X62of6d-ZRkRpnH/view",
+      "title": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event",
       "date": "2026-10-20",
       "deadline": "2026-10-27",
+      "status": "signed",
       "needsSign": true,
-      "signedAt": null,
-      "status": "pending",
-      "summary": "Notice C2026-085, reply deadline 2026-10-27. Awaiting signature.",
-      "title": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Eve"
+      "signedAt": "2026-10-20 20:43:05",
+      "summary": "Notice C2026-085, reply deadline 2026-10-27. Signed 2026-10-20 20:43:05.",
+      "attachmentUrl": "https://drive.google.com/file/d/1WTFMP925BrSj0eSh_X62of6d-ZRkRpnH/view"
     },
     {
       "id": "C2026-082",
-      "attachmentUrl": "https://drive.google.com/file/d/1ajor1FcSwCRpeuuWXyj86Rtdjqk-uAZ9/view",
+      "title": "Invitation to Putonghua Activity – 普通話語匯通202627",
       "date": "2026-10-16",
       "deadline": "2026-10-22",
+      "status": "signed",
       "needsSign": true,
       "signedAt": "2026-10-16 17:55:17",
-      "status": "signed",
       "summary": "Notice C2026-082, reply deadline 2026-10-22. Signed 2026-10-16 17:55:17.",
-      "title": "Invitation to Putonghua Activity – 普通話語匯通202627"
+      "attachmentUrl": "https://drive.google.com/file/d/1ajor1FcSwCRpeuuWXyj86Rtdjqk-uAZ9/view"
     },
     {
       "id": "P2026-005",
-      "attachmentUrl": "https://drive.google.com/file/d/1xOApV6gc-Yexn01oyPqvvptG_Gqaftd2/view",
+      "title": "Announcement of Election Result for Parent Manager Election 2026-2027",
       "date": "2026-10-16",
       "deadline": "2026-10-26",
+      "status": "signed",
       "needsSign": true,
       "signedAt": "2026-10-16 17:54:59",
-      "status": "signed",
       "summary": "Notice P2026-005, reply deadline 2026-10-26. Signed 2026-10-16 17:54:59.",
-      "title": "Announcement of Election Result for Parent Manager Election 2026-2027"
+      "attachmentUrl": "https://drive.google.com/file/d/1xOApV6gc-Yexn01oyPqvvptG_Gqaftd2/view"
     },
     {
       "id": "C2026-080",
-      "attachmentUrl": "https://drive.google.com/file/d/1mDslL49ntS5Tlbm6puHsHv4diFVt3eDa/view",
+      "title": "Morning Mass 2026-2027",
       "date": "2026-10-16",
       "deadline": "2026-10-26",
+      "status": "signed",
       "needsSign": true,
       "signedAt": "2026-10-16 17:54:54",
-      "status": "signed",
       "summary": "Notice C2026-080, reply deadline 2026-10-26. Signed 2026-10-16 17:54:54.",
-      "title": "Morning Mass 2026-2027"
+      "attachmentUrl": "https://drive.google.com/file/d/1mDslL49ntS5Tlbm6puHsHv4diFVt3eDa/view"
     },
     {
       "id": "C2026-077",
-      "attachmentUrl": "https://drive.google.com/file/d/1F9U43rta54Eyq_dAeAOMUQd2w5nGaWN4/view",
+      "title": "Sales of Caritas’ Charity Raffle Tickets",
       "date": "2026-10-13",
       "deadline": "2026-10-28",
+      "status": "signed",
       "needsSign": true,
       "signedAt": "2026-10-14 21:40:05",
-      "status": "signed",
       "summary": "Notice C2026-077, reply deadline 2026-10-28. Signed 2026-10-14 21:40:05.",
-      "title": "Sales of Caritas’ Charity Raffle Tickets"
+      "attachmentUrl": "https://drive.google.com/file/d/1F9U43rta54Eyq_dAeAOMUQd2w5nGaWN4/view"
     },
     {
       "id": "C2026-065",
-      "attachmentUrl": "https://drive.google.com/file/d/1fSshyMmiBIYX1Xlbvn7fqO8LhqcKfZta/view",
+      "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）",
       "date": "2026-09-29",
       "deadline": "2026-10-30",
+      "status": "signed",
       "needsSign": true,
       "signedAt": "2026-10-02 14:21:13",
-      "status": "signed",
       "summary": "Notice C2026-065, reply deadline 2026-10-30. Signed 2026-10-02 14:21:13.",
-      "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）"
+      "attachmentUrl": "https://drive.google.com/file/d/1fSshyMmiBIYX1Xlbvn7fqO8LhqcKfZta/view"
     }
   ],
   "homeworkToday": [],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=16O8L7nCwEWxWjuln8Grm7_Edj78UXNi-&sz=w1000",
-  "homeworkImageDate": "2026-10-20",
+  "homeworkImageDate": "2026-10-21",
   "calendar": [
     {
       "date": "2026-10-23",
