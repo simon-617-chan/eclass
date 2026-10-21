@@ -1,147 +1,154 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "className": "1A",
-  "syncedAt": "2026-10-21T01:24:59Z",
-  "notices": [
-    {
-      "id": "C2026-086",
-      "title": "MSS MPS Centenary Raffle Tickets Sale",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
-      "status": "pending",
-      "needsSign": true,
-      "summary": "Notice C2026-086, issued 2026-10-20, reply deadline 2026-11-23. MSS MPS Centenary Raffle Tickets Sale.",
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
-    },
-    {
-      "id": "C2026-085",
-      "title": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event",
-      "date": "2026-10-20",
-      "deadline": "2026-10-27",
-      "status": "pending",
-      "needsSign": true,
-      "summary": "Notice C2026-085, issued 2026-10-20, reply deadline 2026-10-27. Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event.",
-      "attachmentUrl": "https://drive.google.com/file/d/1yII621P_qL0EpT-7XuOyiZ7b47Rncq6m/preview"
-    },
-    {
-      "id": "P2026-005",
-      "title": "Announcement of Election Result for Parent Manager Election 2026-2027",
-      "date": "2026-10-16",
-      "deadline": "2026-10-26",
-      "status": "signed",
-      "needsSign": false,
-      "summary": "Notice P2026-005, issued 2026-10-16, reply deadline 2026-10-26. Announcement of Election Result for Parent Manager Election 2026-2027.",
-      "attachmentUrl": "https://drive.google.com/file/d/1K1ERZxzL6wihOmv3Gfvt92YEoMCbn-7P/preview"
-    },
-    {
-      "id": "C2026-081",
-      "title": "Order of the Prayer Book –《牙牙語》",
-      "date": "2026-10-16",
-      "deadline": "2026-10-23",
-      "status": "signed",
-      "needsSign": false,
-      "summary": "Notice C2026-081, issued 2026-10-16, reply deadline 2026-10-23. Order of the Prayer Book –《牙牙語》.",
-      "attachmentUrl": "https://drive.google.com/file/d/1N9A4tEZClUNGmriN1PlqIXC35XLryQsU/preview"
-    },
-    {
-      "id": "C2026-080",
-      "title": "Morning Mass 2026-2027",
-      "date": "2026-10-16",
-      "deadline": "2026-10-26",
-      "status": "signed",
-      "needsSign": false,
-      "summary": "Notice C2026-080, issued 2026-10-16, reply deadline 2026-10-26. Morning Mass 2026-2027.",
-      "attachmentUrl": "https://drive.google.com/file/d/1TiQM_WBck-qTcVFfltRQMC1eV0K4yYde/preview"
-    },
-    {
-      "id": "C2026-077",
-      "title": "Sales of Caritas’ Charity Raffle Tickets",
-      "date": "2026-10-13",
-      "deadline": "2026-10-28",
-      "status": "signed",
-      "needsSign": false,
-      "summary": "Notice C2026-077, issued 2026-10-13, reply deadline 2026-10-28. Sales of Caritas’ Charity Raffle Tickets.",
-      "attachmentUrl": "https://drive.google.com/file/d/1QozGOu_OjSO9_jFNYgpTS9G88WlRiaC1/preview"
-    },
-    {
-      "id": "C2026-065",
-      "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）",
-      "date": "2026-09-29",
-      "deadline": "2026-10-30",
-      "status": "signed",
-      "needsSign": false,
-      "summary": "Notice C2026-065, issued 2026-09-29, reply deadline 2026-10-30. Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）.",
-      "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview"
-    }
-  ],
-  "homeworkToday": [],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-10-20",
-  "calendar": [
-    {
-      "date": "2026-10-23",
-      "detail": "School",
-      "title": "P.1-6 School Outreach Vaccination"
-    },
-    {
-      "date": "2026-11-02",
-      "detail": "School",
-      "title": "Half Day School"
-    },
-    {
-      "date": "2026-11-03",
-      "detail": "School",
-      "title": "Half Day School"
-    },
-    {
-      "date": "2026-11-04",
-      "detail": "Academic",
-      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-    },
-    {
-      "date": "2026-11-05",
-      "detail": "Academic",
-      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-    },
-    {
-      "date": "2026-11-06",
-      "detail": "School",
-      "title": "HKE Swimming Competition"
-    },
-    {
-      "date": "2026-11-06",
-      "detail": "Holidays",
-      "title": "Staff Development Day (No School)"
-    },
-    {
-      "date": "2026-11-09",
-      "detail": "Academic",
-      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-    },
-    {
-      "date": "2026-11-10",
-      "detail": "Academic",
-      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-    },
-    {
-      "date": "2026-11-11",
-      "detail": "School",
-      "title": "Semester 2 begins"
-    },
-    {
-      "date": "2026-11-11",
-      "detail": "School",
-      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
-    },
-    {
-      "date": "2026-11-12",
-      "detail": "School",
-      "title": "Half Day School"
-    },
-    {
-      "date": "2026-11-13",
-      "detail": "School",
-      "title": "Half Day School"
-    }
-  ]
+ "calendar": [
+  {
+   "date": "2026-10-23",
+   "detail": "School",
+   "title": "P.1-6 School Outreach Vaccination"
+  },
+  {
+   "date": "2026-11-02",
+   "detail": "School",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-03",
+   "detail": "School",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-04",
+   "detail": "Academic",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-05",
+   "detail": "Academic",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-06",
+   "detail": "School",
+   "title": "HKE Swimming Competition"
+  },
+  {
+   "date": "2026-11-06",
+   "detail": "Holidays",
+   "title": "Staff Development Day (No School)"
+  },
+  {
+   "date": "2026-11-09",
+   "detail": "Academic",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-10",
+   "detail": "Academic",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-11",
+   "detail": "School",
+   "title": "Semester 2 begins"
+  },
+  {
+   "date": "2026-11-11",
+   "detail": "School",
+   "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
+  },
+  {
+   "date": "2026-11-12",
+   "detail": "School",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-13",
+   "detail": "School",
+   "title": "Half Day School"
+  }
+ ],
+ "className": "1A",
+ "homeworkImageDate": "2026-10-20",
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkToday": [],
+ "notices": [
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+   "date": "2026-10-20",
+   "deadline": "2026-11-23",
+   "id": "C2026-086",
+   "needsSign": true,
+   "status": "pending",
+   "summary": "Notice C2026-086, issued 2026-10-20, reply deadline 2026-11-23. MSS MPS Centenary Raffle Tickets Sale.",
+   "title": "MSS MPS Centenary Raffle Tickets Sale",
+   "signedAt": null
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1yII621P_qL0EpT-7XuOyiZ7b47Rncq6m/preview",
+   "date": "2026-10-20",
+   "deadline": "2026-10-27",
+   "id": "C2026-085",
+   "needsSign": true,
+   "status": "pending",
+   "summary": "Notice C2026-085, issued 2026-10-20, reply deadline 2026-10-27. Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event.",
+   "title": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event",
+   "signedAt": null
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1K1ERZxzL6wihOmv3Gfvt92YEoMCbn-7P/preview",
+   "date": "2026-10-16",
+   "deadline": "2026-10-26",
+   "id": "P2026-005",
+   "needsSign": false,
+   "status": "signed",
+   "summary": "Notice P2026-005, issued 2026-10-16, reply deadline 2026-10-26. Announcement of Election Result for Parent Manager Election 2026-2027.",
+   "title": "Announcement of Election Result for Parent Manager Election 2026-2027",
+   "signedAt": "2026-10-16 17:54:31"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1N9A4tEZClUNGmriN1PlqIXC35XLryQsU/preview",
+   "date": "2026-10-16",
+   "deadline": "2026-10-23",
+   "id": "C2026-081",
+   "needsSign": false,
+   "status": "signed",
+   "summary": "Notice C2026-081, issued 2026-10-16, reply deadline 2026-10-23. Order of the Prayer Book –《牙牙語》.",
+   "title": "Order of the Prayer Book –《牙牙語》",
+   "signedAt": "2026-10-16 17:53:10"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1TiQM_WBck-qTcVFfltRQMC1eV0K4yYde/preview",
+   "date": "2026-10-16",
+   "deadline": "2026-10-26",
+   "id": "C2026-080",
+   "needsSign": false,
+   "status": "signed",
+   "summary": "Notice C2026-080, issued 2026-10-16, reply deadline 2026-10-26. Morning Mass 2026-2027.",
+   "title": "Morning Mass 2026-2027",
+   "signedAt": "2026-10-16 17:52:37"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1QozGOu_OjSO9_jFNYgpTS9G88WlRiaC1/preview",
+   "date": "2026-10-13",
+   "deadline": "2026-10-28",
+   "id": "C2026-077",
+   "needsSign": false,
+   "status": "signed",
+   "summary": "Notice C2026-077, issued 2026-10-13, reply deadline 2026-10-28. Sales of Caritas’ Charity Raffle Tickets.",
+   "title": "Sales of Caritas’ Charity Raffle Tickets",
+   "signedAt": "2026-10-14 21:40:15"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview",
+   "date": "2026-09-29",
+   "deadline": "2026-10-30",
+   "id": "C2026-065",
+   "needsSign": false,
+   "status": "signed",
+   "summary": "Notice C2026-065, issued 2026-09-29, reply deadline 2026-10-30. Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）.",
+   "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）",
+   "signedAt": "2026-09-30 06:35:28"
+  }
+ ],
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-10-21T04:39:06Z"
 }
