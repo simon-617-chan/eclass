@@ -1,7 +1,7 @@
 {
  "studentName": "CHAN ON KIU SOPHELIA",
  "className": "1A",
- "syncedAt": "2026-10-22T14:14:33Z",
+ "syncedAt": "2026-10-22T21:42:02Z",
  "notices": [
   {
    "id": "C2026-086",
@@ -81,64 +81,39 @@
    "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview"
   }
  ],
- "homeworkToday": [
-  {
-   "subject": "中文",
-   "title": "默籤改"
-  },
-  {
-   "subject": "English",
-   "title": "Prepare Speaking LPT2 (29/10)"
-  },
-  {
-   "subject": "English",
-   "title": "Corr GB p.9"
-  },
-  {
-   "subject": "English",
-   "title": "Do RW p.18"
-  },
-  {
-   "subject": "Others",
-   "title": "Make a crown (hand in next Thu)"
-  },
-  {
-   "subject": "Remarks",
-   "title": "vaccination tmr"
-  }
- ],
+ "homeworkToday": [],
  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
  "homeworkImageDate": "2026-10-22",
  "calendar": [
   {
    "date": "2026-10-23",
    "title": "P.1-6 School Outreach Vaccination",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-02",
    "title": "Half Day School",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-03",
    "title": "Half Day School",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-04",
    "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days",
-   "detail": "Academic"
+   "detail": "Academic Events"
   },
   {
    "date": "2026-11-05",
    "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days",
-   "detail": "Academic"
+   "detail": "Academic Events"
   },
   {
    "date": "2026-11-06",
    "title": "HKE Swimming Competition",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-06",
@@ -148,32 +123,32 @@
   {
    "date": "2026-11-09",
    "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days",
-   "detail": "Academic"
+   "detail": "Academic Events"
   },
   {
    "date": "2026-11-10",
    "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days",
-   "detail": "Academic"
+   "detail": "Academic Events"
   },
   {
    "date": "2026-11-11",
    "title": "Semester 2 begins",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-11",
    "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-12",
    "title": "Half Day School",
-   "detail": "School"
+   "detail": "School Events"
   },
   {
    "date": "2026-11-13",
    "title": "Half Day School",
-   "detail": "School"
+   "detail": "School Events"
   }
  ]
 }
