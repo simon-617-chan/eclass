@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-10-23T07:07:04Z",
+  "syncedAt": "2026-10-23T07:07:53Z",
   "notices": [
     {
       "id": "C2026-086",
@@ -84,34 +84,47 @@
   "homeworkToday": [
     {
       "subject": "中文",
-      "tasks": [
-        "語基 P.20-21 + 改正 P.8-11",
-        "[堂課 P.12-14]"
-      ]
+      "title": "語基 P.20-21 + 改正 P.8-11"
+    },
+    {
+      "subject": "中文",
+      "title": "[堂課 P.12-14]"
     },
     {
       "subject": "English",
-      "tasks": [
-        "Corr RW p.18",
-        "Do Pen (WIR syllabus)",
-        "Do WS",
-        "Do LN (read I just forgot + do ex)",
-        "corr Gram Hunt 1-3"
-      ]
+      "title": "Corr RW p.18"
+    },
+    {
+      "subject": "English",
+      "title": "Do Pen (WIR syllabus)"
+    },
+    {
+      "subject": "English",
+      "title": "Do WS"
+    },
+    {
+      "subject": "English",
+      "title": "Do LN (read I just forgot + do ex)"
+    },
+    {
+      "subject": "English",
+      "title": "corr Gram Hunt 1-3"
     },
     {
       "subject": "Maths",
-      "tasks": [
-        "MPS 3",
-        "Elf 1A (all) + self-check (26/10)"
-      ]
+      "title": "MPS 3"
+    },
+    {
+      "subject": "Maths",
+      "title": "Elf 1A (all) + self-check (26/10)"
     },
     {
       "subject": "Others",
-      "tasks": [
-        "HUM LPT 27/10 DUE",
-        "Practise singing"
-      ]
+      "title": "HUM LPT 27/10 DUE"
+    },
+    {
+      "subject": "Others",
+      "title": "Practise singing"
     }
   ],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
