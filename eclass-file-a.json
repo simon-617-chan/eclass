@@ -1,1 +1,186 @@
-{"studentName":"CHAN ON KIU SOPHELIA","className":"1A","syncedAt":"2026-10-23T13:40:07Z","notices":[{"id":"C2026-086","title":"MSS MPS Centenary Raffle Tickets Sale","date":"2026-10-20","deadline":"2026-11-23","status":"signed","needsSign":false,"summary":"Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.","attachmentUrl":"https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview","signedAt":"2026-10-22 15:58:12"},{"id":"C2026-085","title":"Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event","date":"2026-10-20","deadline":"2026-10-27","status":"signed","needsSign":false,"summary":"Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event; reply slip contents noted.","attachmentUrl":"https://drive.google.com/file/d/1yII621P_qL0EpT-7XuOyiZ7b47Rncq6m/preview","signedAt":"2026-10-22 15:58:08"},{"id":"P2026-005","title":"Announcement of Election Result for Parent Manager Election 2026-2027","date":"2026-10-16","deadline":"2026-10-26","status":"signed","needsSign":false,"summary":"Announcement of the election result for Parent Manager Election 2026-2027; reply slip contents noted.","attachmentUrl":"https://drive.google.com/file/d/1K1ERZxzL6wihOmv3Gfvt92YEoMCbn-7P/preview","signedAt":"2026-10-16 17:54:31"},{"id":"C2026-081","title":"Order of the Prayer Book –《牙牙語》","date":"2026-10-16","deadline":"2026-10-23","status":"signed","needsSign":false,"summary":"Reply slip option selected: order one copy of the prayer book 《牙牙語》 for $16.00 (total $16.00).","attachmentUrl":"https://drive.google.com/file/d/1N9A4tEZClUNGmriN1PlqIXC35XLryQsU/preview","signedAt":"2026-10-16 17:53:10"},{"id":"C2026-080","title":"Morning Mass 2026-2027","date":"2026-10-16","deadline":"2026-10-26","status":"signed","needsSign":false,"summary":"Morning Mass 2026-2027; reply slip contents noted.","attachmentUrl":"https://drive.google.com/file/d/1TiQM_WBck-qTcVFfltRQMC1eV0K4yYde/preview","signedAt":"2026-10-16 17:52:37"},{"id":"C2026-077","title":"Sales of Caritas’ Charity Raffle Tickets","date":"2026-10-13","deadline":"2026-10-28","status":"signed","needsSign":false,"summary":"Sales of Caritas' Charity Raffle Tickets; reply slip contents noted.","attachmentUrl":"https://drive.google.com/file/d/1QozGOu_OjSO9_jFNYgpTS9G88WlRiaC1/preview","signedAt":"2026-10-14 21:40:15"},{"id":"C2026-065","title":"Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）","date":"2026-09-29","deadline":"2026-10-30","status":"signed","needsSign":false,"summary":"Reply slip option selected: my daughter will not join the Chinese Story Writing Competition.","attachmentUrl":"https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview","signedAt":"2026-09-30 06:35:28"}],"homeworkToday":[{"subject":"中文","title":"1. 讀課文 P.20-21+改正 P.8-11 [家課 P.12-14]"},{"subject":"English","title":"1. Corr RW p.18"},{"subject":"English","title":"2. Do Pen (WIR syllabus)"},{"subject":"English","title":"3. Do WS"},{"subject":"English","title":"4. Do LN (read i just forgot + do ex)"},{"subject":"English","title":"5. corr Gram Hunt 1-3"},{"subject":"Maths","title":"1. MPS 3"},{"subject":"Maths","title":"2. Eff 1A (all) + self-check (26/10)"},{"subject":"Others","title":"1. HUM LPT 27/10 DUE"},{"subject":"Others","title":"2. Practise singing"}],"homeworkImageUrl":"https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000","homeworkImageDate":"2026-10-23","calendar":[{"date":"2026-10-23","title":"P.1-6 School Outreach Vaccination"},{"date":"2026-11-02","title":"Half Day School"},{"date":"2026-11-03","title":"Half Day School"},{"date":"2026-11-04","title":"S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},{"date":"2026-11-05","title":"S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},{"date":"2026-11-06","title":"HKE Swimming Competition"},{"date":"2026-11-06","title":"Staff Development Day (No School)"},{"date":"2026-11-09","title":"S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},{"date":"2026-11-10","title":"S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"},{"date":"2026-11-11","title":"Semester 2 begins"},{"date":"2026-11-11","title":"Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"},{"date":"2026-11-12","title":"Half Day School"},{"date":"2026-11-13","title":"Half Day School"}]}
+{
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "className": "1A",
+ "syncedAt": "2026-10-23T14:20:52Z",
+ "notices": [
+  {
+   "id": "C2026-086",
+   "title": "MSS MPS Centenary Raffle Tickets Sale",
+   "date": "2026-10-20",
+   "deadline": "2026-11-23",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-22 15:58:12",
+   "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+   "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
+  },
+  {
+   "id": "C2026-085",
+   "title": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event",
+   "date": "2026-10-20",
+   "deadline": "2026-10-27",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-22 15:58:08",
+   "summary": "Invitation to the 2026-27 Asian English Spelling Competition (Golden Bee Cup) Elimination & Heat Event; reply slip contents noted.",
+   "attachmentUrl": "https://drive.google.com/file/d/1yII621P_qL0EpT-7XuOyiZ7b47Rncq6m/preview"
+  },
+  {
+   "id": "P2026-005",
+   "title": "Announcement of Election Result for Parent Manager Election 2026-2027",
+   "date": "2026-10-16",
+   "deadline": "2026-10-26",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-16 17:54:31",
+   "summary": "Announcement of the election result for Parent Manager Election 2026-2027; reply slip contents noted.",
+   "attachmentUrl": "https://drive.google.com/file/d/1K1ERZxzL6wihOmv3Gfvt92YEoMCbn-7P/preview"
+  },
+  {
+   "id": "C2026-081",
+   "title": "Order of the Prayer Book –《牙牙語》",
+   "date": "2026-10-16",
+   "deadline": "2026-10-23",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-16 17:53:10",
+   "summary": "Reply slip option selected: order one copy of the prayer book 《牙牙語》 for $16.00 (total $16.00).",
+   "attachmentUrl": "https://drive.google.com/file/d/1N9A4tEZClUNGmriN1PlqIXC35XLryQsU/preview"
+  },
+  {
+   "id": "C2026-080",
+   "title": "Morning Mass 2026-2027",
+   "date": "2026-10-16",
+   "deadline": "2026-10-26",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-16 17:52:37",
+   "summary": "Morning Mass 2026-2027; reply slip contents noted.",
+   "attachmentUrl": "https://drive.google.com/file/d/1TiQM_WBck-qTcVFfltRQMC1eV0K4yYde/preview"
+  },
+  {
+   "id": "C2026-077",
+   "title": "Sales of Caritas’ Charity Raffle Tickets",
+   "date": "2026-10-13",
+   "deadline": "2026-10-28",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-10-14 21:40:15",
+   "summary": "Sales of Caritas' Charity Raffle Tickets; reply slip contents noted.",
+   "attachmentUrl": "https://drive.google.com/file/d/1QozGOu_OjSO9_jFNYgpTS9G88WlRiaC1/preview"
+  },
+  {
+   "id": "C2026-065",
+   "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）",
+   "date": "2026-09-29",
+   "deadline": "2026-10-30",
+   "status": "signed",
+   "needsSign": false,
+   "signedAt": "2026-09-30 06:35:28",
+   "summary": "Reply slip option selected: my daughter will not join the Chinese Story Writing Competition.",
+   "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview"
+  }
+ ],
+ "homeworkToday": [
+  {
+   "subject": "中文",
+   "title": "1. 語基 P.20-21+改正 P.8-11"
+  },
+  {
+   "subject": "中文",
+   "title": "[筆課 P.12-14]"
+  },
+  {
+   "subject": "English",
+   "title": "1. Corr RW p.18"
+  },
+  {
+   "subject": "English",
+   "title": "2. Do Pen(WIR syllabus)"
+  },
+  {
+   "subject": "English",
+   "title": "3. Do WS"
+  },
+  {
+   "subject": "English",
+   "title": "4. Do LN (read I just forgot + do ex)"
+  },
+  {
+   "subject": "English",
+   "title": "5. corr Gram Hunt 1-3"
+  },
+  {
+   "subject": "Maths",
+   "title": "1. MPS 3"
+  },
+  {
+   "subject": "Maths",
+   "title": "2. Elf 1A (all) + self-check (26/10)"
+  },
+  {
+   "subject": "Others",
+   "title": "1. HUM LPT 27/10 DUE"
+  },
+  {
+   "subject": "Others",
+   "title": "2. Practise singing"
+  }
+ ],
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkImageDate": "2026-10-23",
+ "calendar": [
+  {
+   "date": "2026-10-23",
+   "title": "P.1-6 School Outreach Vaccination"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "HKE Swimming Competition"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Staff Development Day (No School)"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Semester 2 begins"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Half Day School"
+  }
+ ]
+}
