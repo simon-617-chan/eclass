@@ -1,82 +1,82 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-10-30T09:14:20Z",
+  "syncedAt": "2026-10-30T10:10:03Z",
   "notices": [
     {
+      "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview",
+      "date": "2026-10-28",
+      "deadline": "2026-11-04",
       "id": "C2026-098-1A",
-      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)",
-      "date": "2026-10-28",
-      "deadline": "2026-11-04",
-      "status": "new",
       "needsSign": true,
+      "status": "new",
       "summary": "The notice announces a whole-day visit on 11 November 2026 to the National Security Exhibition Gallery at 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui, with school-bus transport, school uniform and stationery required, and a lunch-arrangement reply due by 4 November 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview"
+      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)"
     },
     {
-      "id": "M2026-019",
-      "title": "Distribution of Competition Notification for Speech Festival",
+      "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview",
       "date": "2026-10-28",
       "deadline": "2026-11-04",
-      "status": "new",
+      "id": "M2026-019",
       "needsSign": true,
+      "status": "new",
       "summary": "The Speech Festival Competition Notification will be given to participating students the next day and must be kept for competition day, with alteration forms to be returned by 2 November 2026 and video submissions, where applicable, from 10:00 a.m. on 30 October to 5:00 p.m. on 5 November 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview"
+      "title": "Distribution of Competition Notification for Speech Festival"
     },
     {
-      "id": "M2026-018",
-      "title": "Payment for Dental Care Service (only for e-enrolled students)",
+      "attachmentUrl": "https://drive.google.com/file/d/1ID5yDKZRHbJR3IzdnRc5G49T6aBL73Jc/preview",
       "date": "2026-10-27",
       "deadline": "2026-10-30",
-      "status": "signed",
+      "id": "M2026-018",
       "needsSign": false,
+      "signedAt": "2026-10-28 06:52:11",
+      "status": "signed",
       "summary": "Parents of e-enrolled students pay $45 for the Department of Health dental care service via an SMS payment notification bearing ID #DH-PAYMENT through the Department of Health e-Payment Portal; reply on or before 30 October 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/1ID5yDKZRHbJR3IzdnRc5G49T6aBL73Jc/preview",
-      "signedAt": "2026-10-28 06:52:11"
+      "title": "Payment for Dental Care Service (only for e-enrolled students)"
     },
     {
-      "id": "C2026-094",
-      "title": "Recruitment of Lunch Helpers (Nov 2026 – Feb 2027)",
+      "attachmentUrl": "https://drive.google.com/file/d/1PJr6O7C_tstFMooBVtMSASLGlyYuVcbZ/preview",
       "date": "2026-10-26",
       "deadline": "2026-10-30",
-      "status": "signed",
+      "id": "C2026-094",
       "needsSign": false,
+      "signedAt": "2026-10-28 06:51:59",
+      "status": "signed",
       "summary": "Recruitment of Lunch Helpers, November 2026 to February 2027, duty 12:50–1:20 p.m. on regular school days; reply on or before 30 October 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/1PJr6O7C_tstFMooBVtMSASLGlyYuVcbZ/preview",
-      "signedAt": "2026-10-28 06:51:59"
+      "title": "Recruitment of Lunch Helpers (Nov 2026 – Feb 2027)"
     },
     {
-      "id": "C2026-091",
-      "title": "Invitation to Parent Talks (November) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂",
+      "attachmentUrl": "https://drive.google.com/file/d/156SCtwv1gbohxaFJIE4oCWwanBuZ95f2/preview",
       "date": "2026-10-26",
       "deadline": "2026-11-02",
-      "status": "signed",
+      "id": "C2026-091",
       "needsSign": false,
+      "signedAt": "2026-10-28 06:52:04",
+      "status": "signed",
       "summary": "Free online Parent Talks in November 2026 (5, 16 and 17 November) under the Jockey Club Family Resilience Project; reply on or before 2 November 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/156SCtwv1gbohxaFJIE4oCWwanBuZ95f2/preview",
-      "signedAt": "2026-10-28 06:52:04"
+      "title": "Invitation to Parent Talks (November) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
     },
     {
-      "id": "C2026-086",
-      "title": "MSS MPS Centenary Raffle Tickets Sale",
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
       "date": "2026-10-20",
       "deadline": "2026-11-23",
-      "status": "signed",
+      "id": "C2026-086",
       "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
       "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "signedAt": "2026-10-22 15:58:12"
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
     },
     {
-      "id": "C2026-065",
-      "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）",
+      "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview",
       "date": "2026-09-29",
       "deadline": "2026-10-30",
-      "status": "signed",
+      "id": "C2026-065",
       "needsSign": false,
+      "signedAt": "2026-09-30 06:35:28",
+      "status": "signed",
       "summary": "Reply slip option selected: my daughter will not join the Chinese Story Writing Competition.",
-      "attachmentUrl": "https://drive.google.com/file/d/1SK2sn2rkEG4KLy4k_6GZxzPA-susz0MK/preview",
-      "signedAt": "2026-09-30 06:35:28"
+      "title": "Invitation to “Star Reading” Chinese Story Writing Competition （「星靈伴讀」中文故事創作比賽）"
     }
   ],
   "homeworkToday": [
