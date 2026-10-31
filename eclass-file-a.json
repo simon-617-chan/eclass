@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-10-31T04:18:54Z",
+  "syncedAt": "2026-10-31T10:07:53Z",
   "notices": [
     {
       "id": "C2026-098-1A",
@@ -117,6 +117,10 @@
     },
     {
       "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
       "title": "P.5 Overnight Wild Camp"
     }
   ]
