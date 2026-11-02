@@ -1,56 +1,4 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "className": "1A",
-  "syncedAt": "2026-11-01T21:03:27Z",
-  "notices": [
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview",
-      "date": "2026-10-28",
-      "deadline": "2026-11-04",
-      "id": "C2026-098-1A",
-      "needsSign": false,
-      "signedAt": "2026-11-01 11:03:19",
-      "status": "signed",
-      "summary": "The notice announces a whole-day visit on 11 November 2026 to the National Security Exhibition Gallery at 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui, with school-bus transport, school uniform and stationery required, and a lunch-arrangement reply due by 4 November 2026.",
-      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview",
-      "date": "2026-10-28",
-      "deadline": "2026-11-04",
-      "id": "M2026-019",
-      "needsSign": false,
-      "signedAt": "2026-11-01 11:03:23",
-      "status": "signed",
-      "summary": "The Speech Festival Competition Notification will be given to participating students the next day and must be kept for competition day, with alteration forms to be returned by 2 November 2026 and video submissions, where applicable, from 10:00 a.m. on 30 October to 5:00 p.m. on 5 November 2026.",
-      "title": "Distribution of Competition Notification for Speech Festival"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/156SCtwv1gbohxaFJIE4oCWwanBuZ95f2/preview",
-      "date": "2026-10-26",
-      "deadline": "2026-11-02",
-      "id": "C2026-091",
-      "needsSign": false,
-      "signedAt": "2026-10-28 06:52:04",
-      "status": "signed",
-      "summary": "Free online Parent Talks in November 2026 (5, 16 and 17 November) under the Jockey Club Family Resilience Project; reply on or before 2 November 2026.",
-      "title": "Invitation to Parent Talks (November) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
-      "id": "C2026-086",
-      "needsSign": false,
-      "signedAt": "2026-10-22 15:58:12",
-      "status": "signed",
-      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-      "title": "MSS MPS Centenary Raffle Tickets Sale"
-    }
-  ],
-  "homeworkToday": [],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-10-30",
   "calendar": [
     {
       "date": "2026-11-02",
@@ -109,9 +57,61 @@
       "title": "P.5 Overnight Wild Camp"
     }
   ],
+  "className": "1A",
+  "homeworkImageDate": "2026-10-30",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [],
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview",
+      "date": "2026-10-28",
+      "deadline": "2026-11-04",
+      "id": "C2026-098-1A",
+      "needsSign": false,
+      "signedAt": "2026-11-01 11:03:19",
+      "status": "signed",
+      "summary": "The notice announces a whole-day visit on 11 November 2026 to the National Security Exhibition Gallery at 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui, with school-bus transport, school uniform and stationery required, and a lunch-arrangement reply due by 4 November 2026.",
+      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview",
+      "date": "2026-10-28",
+      "deadline": "2026-11-04",
+      "id": "M2026-019",
+      "needsSign": false,
+      "signedAt": "2026-11-01 11:03:23",
+      "status": "signed",
+      "summary": "The Speech Festival Competition Notification will be given to participating students the next day and must be kept for competition day, with alteration forms to be returned by 2 November 2026 and video submissions, where applicable, from 10:00 a.m. on 30 October to 5:00 p.m. on 5 November 2026.",
+      "title": "Distribution of Competition Notification for Speech Festival"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/156SCtwv1gbohxaFJIE4oCWwanBuZ95f2/preview",
+      "date": "2026-10-26",
+      "deadline": "2026-11-02",
+      "id": "C2026-091",
+      "needsSign": false,
+      "signedAt": "2026-10-28 06:52:04",
+      "status": "signed",
+      "summary": "Free online Parent Talks in November 2026 (5, 16 and 17 November) under the Jockey Club Family Resilience Project; reply on or before 2 November 2026.",
+      "title": "Invitation to Parent Talks (November) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "id": "C2026-086",
+      "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
+      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
+    }
+  ],
   "retrieved_at": {
-    "user_local": "2026-11-02T05:03:27.718+08:00",
+    "user_local": "2026-11-02T08:55:41.107+08:00",
     "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-01T21:03:27.718Z"
-  }
+    "utc": "2026-11-02T00:55:41.107Z"
+  },
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-02T01:09:43Z"
 }
