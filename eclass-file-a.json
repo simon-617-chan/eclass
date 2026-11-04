@@ -1,108 +1,103 @@
 {
-    "calendar": [
-        {
-            "date": "2026-11-04",
-            "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-        },
-        {
-            "date": "2026-11-05",
-            "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-        },
-        {
-            "date": "2026-11-06",
-            "title": "Staff Development Day (No School)"
-        },
-        {
-            "date": "2026-11-06",
-            "title": "HKE Swimming Competition"
-        },
-        {
-            "date": "2026-11-09",
-            "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-        },
-        {
-            "date": "2026-11-10",
-            "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-        },
-        {
-            "date": "2026-11-11",
-            "title": "Semester 2 begins"
-        },
-        {
-            "date": "2026-11-11",
-            "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
-        },
-        {
-            "date": "2026-11-12",
-            "title": "Half Day School"
-        },
-        {
-            "date": "2026-11-13",
-            "title": "Half Day School"
-        },
-        {
-            "date": "2026-11-27",
-            "title": "P.5 Overnight Wild Camp"
-        },
-        {
-            "date": "2026-11-28",
-            "title": "P.5 Overnight Wild Camp"
-        }
-    ],
-    "className": "1A",
-    "homeworkImageDate": "2026-11-03",
-    "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-    "homeworkToday": [],
-    "notices": [
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/15V-I-V5nOsUeAPArRRcIqqyk7hbY2hh9/preview",
-            "date": "2026-11-02",
-            "deadline": "2026-11-09",
-            "id": "P2026-006",
-            "needsSign": true,
-            "status": "new",
-            "summary": "Announces the 29th MPS Parent-Teacher Association Executive Committee elected at the Annual General Meeting on 9 October 2026; reply by 9 November 2026.",
-            "title": "Announcement of the 29th Executive Committee of the MPS Parent-Teacher Association"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview",
-            "date": "2026-10-28",
-            "deadline": "2026-11-04",
-            "id": "C2026-098-1A",
-            "needsSign": false,
-            "signedAt": "2026-11-01 11:03:19",
-            "status": "signed",
-            "summary": "The notice announces a whole-day visit on 11 November 2026 to the National Security Exhibition Gallery at 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui, with school-bus transport, school uniform and stationery required, and a lunch-arrangement reply due by 4 November 2026.",
-            "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview",
-            "date": "2026-10-28",
-            "deadline": "2026-11-04",
-            "id": "M2026-019",
-            "needsSign": false,
-            "signedAt": "2026-11-01 11:03:23",
-            "status": "signed",
-            "summary": "The Speech Festival Competition Notification will be given to participating students the next day and must be kept for competition day, with alteration forms to be returned by 2 November 2026 and video submissions, where applicable, from 10:00 a.m. on 30 October to 5:00 p.m. on 5 November 2026.",
-            "title": "Distribution of Competition Notification for Speech Festival"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-            "date": "2026-10-20",
-            "deadline": "2026-11-23",
-            "id": "C2026-086",
-            "needsSign": false,
-            "signedAt": "2026-10-22 15:58:12",
-            "status": "signed",
-            "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-            "title": "MSS MPS Centenary Raffle Tickets Sale"
-        }
-    ],
-    "retrieved_at": {
-        "user_local": "2026-11-04T18:02:15.000+08:00",
-        "user_timezone": "Asia/Hong_Kong",
-        "utc": "2026-11-04T10:02:15Z"
+  "calendar": [
+    {
+      "date": "2026-11-04",
+      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
     },
-    "studentName": "CHAN ON KIU SOPHELIA",
-    "syncedAt": "2026-11-04T10:02:15Z"
+    {
+      "date": "2026-11-05",
+      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Staff Development Day (No School)"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "HKE Swimming Competition"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Semester 2 begins"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Half Day School"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Half Day School"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    }
+  ],
+  "className": "1A",
+  "homeworkImageDate": "2026-11-03",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [],
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/15V-I-V5nOsUeAPArRRcIqqyk7hbY2hh9/preview",
+      "date": "2026-11-02",
+      "deadline": "2026-11-09",
+      "id": "P2026-006",
+      "needsSign": true,
+      "status": "new",
+      "summary": "Announces the 29th MPS Parent-Teacher Association Executive Committee elected at the Annual General Meeting on 9 October 2026; reply by 9 November 2026.",
+      "title": "Announcement of the 29th Executive Committee of the MPS Parent-Teacher Association"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/14FVnisyUGMQAyrxCli7I2s798GnSo5MT/preview",
+      "date": "2026-10-28",
+      "deadline": "2026-11-04",
+      "id": "C2026-098-1A",
+      "needsSign": false,
+      "signedAt": "2026-11-01 11:03:19",
+      "status": "signed",
+      "summary": "The notice announces a whole-day visit on 11 November 2026 to the National Security Exhibition Gallery at 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui, with school-bus transport, school uniform and stationery required, and a lunch-arrangement reply due by 4 November 2026.",
+      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (11 Nov 2026)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1DSKg9XF_KsntrYcMHrYlkYmBU2FSMLUJ/preview",
+      "date": "2026-10-28",
+      "deadline": "2026-11-04",
+      "id": "M2026-019",
+      "needsSign": false,
+      "signedAt": "2026-11-01 11:03:23",
+      "status": "signed",
+      "summary": "The Speech Festival Competition Notification will be given to participating students the next day and must be kept for competition day, with alteration forms to be returned by 2 November 2026 and video submissions, where applicable, from 10:00 a.m. on 30 October to 5:00 p.m. on 5 November 2026.",
+      "title": "Distribution of Competition Notification for Speech Festival"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "id": "C2026-086",
+      "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
+      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
+    }
+  ],
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-04T11:00:46Z"
 }
