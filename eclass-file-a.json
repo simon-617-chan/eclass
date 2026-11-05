@@ -1,4 +1,33 @@
 {
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "className": "1A",
+  "syncedAt": "2026-11-05T13:03:01Z",
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/15V-I-V5nOsUeAPArRRcIqqyk7hbY2hh9/preview",
+      "date": "2026-11-02",
+      "deadline": "2026-11-09",
+      "id": "P2026-006",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "Announces the elected office-bearers of the 29th MPS Parent-Teacher Association Executive Committee; reply by 9 November 2026.",
+      "title": "Announcement of the 29th Executive Committee of the MPS Parent-Teacher Association"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "id": "C2026-086",
+      "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
+      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
+    }
+  ],
+  "homeworkToday": [],
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkImageDate": "2026-11-03",
   "calendar": [
     {
       "date": "2026-11-05",
@@ -44,34 +73,5 @@
       "date": "2026-11-28",
       "title": "P.5 Overnight Wild Camp"
     }
-  ],
-  "className": "1A",
-  "homeworkImageDate": "2026-11-03",
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkToday": [],
-  "notices": [
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/15V-I-V5nOsUeAPArRRcIqqyk7hbY2hh9/preview",
-      "date": "2026-11-02",
-      "deadline": "2026-11-09",
-      "id": "P2026-006",
-      "needsSign": true,
-      "status": "pending",
-      "summary": "Announces the elected office-bearers of the 29th MPS Parent-Teacher Association Executive Committee; reply by 9 November 2026.",
-      "title": "Announcement of the 29th Executive Committee of the MPS Parent-Teacher Association"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
-      "id": "C2026-086",
-      "needsSign": false,
-      "signedAt": "2026-10-22 15:58:12",
-      "status": "signed",
-      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-      "title": "MSS MPS Centenary Raffle Tickets Sale"
-    }
-  ],
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-05T12:04:42Z"
+  ]
 }
