@@ -60,10 +60,10 @@
       "deadline": "2026-11-09",
       "id": "P2026-006",
       "needsSign": false,
+      "signedAt": "2026-11-06 14:47:33",
       "status": "signed",
       "summary": "Announces the elected office-bearers of the 29th MPS Parent-Teacher Association Executive Committee; reply by 9 November 2026.",
-      "title": "Announcement of 29th Executive Committee of the 2026-2028 Marymount Primary School Parent-Teacher Association",
-      "signedAt": "2026-11-06 14:47:33"
+      "title": "Announcement of 29th Executive Committee of the 2026-2028 Marymount Primary School Parent-Teacher Association"
     },
     {
       "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
@@ -78,5 +78,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-06T07:02:59Z"
+  "syncedAt": "2026-11-06T08:08:30Z"
 }
