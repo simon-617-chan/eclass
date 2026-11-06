@@ -46,7 +46,7 @@
     },
     {
       "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nddose for specific students)"
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
     }
   ],
   "className": "1A",
@@ -59,10 +59,11 @@
       "date": "2026-11-02",
       "deadline": "2026-11-09",
       "id": "P2026-006",
-      "needsSign": true,
-      "status": "pending",
+      "needsSign": false,
+      "status": "signed",
       "summary": "Announces the elected office-bearers of the 29th MPS Parent-Teacher Association Executive Committee; reply by 9 November 2026.",
-      "title": "Announcement of 29th Executive Committee of the 2026-2028 Marymount Primary School Parent-Teacher Association"
+      "title": "Announcement of 29th Executive Committee of the 2026-2028 Marymount Primary School Parent-Teacher Association",
+      "signedAt": "2026-11-06 14:47:33"
     },
     {
       "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
@@ -77,5 +78,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-06T04:05:04Z"
+  "syncedAt": "2026-11-06T07:02:59Z"
 }
