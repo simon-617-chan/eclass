@@ -1,10 +1,6 @@
 {
   "calendar": [
     {
-      "date": "2026-11-09",
-      "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
-    },
-    {
       "date": "2026-11-10",
       "title": "S1 P.2-6 Summative Assessment & P.1 Learning Activity Days"
     },
@@ -55,17 +51,6 @@
   "homeworkToday": [],
   "notices": [
     {
-      "attachmentUrl": "https://drive.google.com/file/d/15V-I-V5nOsUeAPArRRcIqqyk7hbY2hh9/preview",
-      "date": "2026-11-02",
-      "deadline": "2026-11-09",
-      "id": "P2026-006",
-      "needsSign": false,
-      "signedAt": "2026-11-06 14:47:33",
-      "status": "signed",
-      "summary": "Announces the elected office-bearers of the 29th MPS Parent-Teacher Association Executive Committee; reply by 9 November 2026.",
-      "title": "Announcement of the 29th Executive Committee of the MPS Parent-Teacher Association"
-    },
-    {
       "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
       "date": "2026-10-20",
       "deadline": "2026-11-23",
@@ -78,5 +63,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-09T14:10:47Z"
+  "syncedAt": "2026-11-09T21:10:27Z"
 }
