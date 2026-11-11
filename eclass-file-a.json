@@ -1,14 +1,6 @@
 {
   "calendar": [
     {
-      "date": "2026-11-11",
-      "title": "Semester 2 begins"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Visit to the National Security Exhibition Gallery of the HKSAR (Whole-day School)"
-    },
-    {
       "date": "2026-11-12",
       "title": "Half Day School"
     },
@@ -70,5 +62,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-11T14:06:58Z"
+  "syncedAt": "2026-11-11T21:22:05Z"
 }
