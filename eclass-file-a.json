@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-12T14:09:22Z",
+  "syncedAt": "2026-11-12T14:13:48Z",
   "notices": [
     {
       "id": "M2026-021-C",
@@ -27,13 +27,34 @@
     }
   ],
   "homeworkToday": [
-    "中文: 1. 明續說評",
-    "中文: 2. 帶一上二書",
-    "English: 1. Do GB p. 10, 11",
-    "English: 2. Bring 'The boy Who Cried Wolf'",
-    "Maths: 1. BM 1B P.15 (3 – 9)",
-    "Others: 1. Bring rosary record card",
-    "Others: 2. Sci: SJ Corr"
+    {
+      "subject": "中文",
+      "title": "1. 明續說評"
+    },
+    {
+      "subject": "中文",
+      "title": "2. 帶一上二書"
+    },
+    {
+      "subject": "English",
+      "title": "1. Do GB p. 10, 11"
+    },
+    {
+      "subject": "English",
+      "title": "2. Bring 'The boy Who Cried Wolf'"
+    },
+    {
+      "subject": "Maths",
+      "title": "1. BM 1B P.15 (3 – 9)"
+    },
+    {
+      "subject": "Others",
+      "title": "1. Bring rosary record card"
+    },
+    {
+      "subject": "Others",
+      "title": "2. Sci: SJ Corr"
+    }
   ],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
   "homeworkImageDate": "2026-11-12",
@@ -72,8 +93,8 @@
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-12T22:09:22.411036+08:00",
+    "user_local": "2026-11-12T22:13:48.287581+08:00",
     "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-12T14:09:22.411036Z"
+    "utc": "2026-11-12T14:13:48.287581Z"
   }
 }
