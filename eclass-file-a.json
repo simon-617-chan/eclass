@@ -1,4 +1,42 @@
 {
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "className": "1A",
+  "syncedAt": "2026-11-12T14:09:22Z",
+  "notices": [
+    {
+      "id": "M2026-021-C",
+      "title": "Successful Applicants of Lunch Helpers – Semester 2 (Tuesday)",
+      "date": "2026-11-11",
+      "deadline": "2026-11-16",
+      "status": "signed",
+      "needsSign": false,
+      "signedAt": "2026-11-11 16:01:20",
+      "summary": "Sophelia is listed as a successful applicant for Lunch Helpers – Semester 2 (Tuesday); reply slip signed 11 November 2026.",
+      "attachmentUrl": "https://drive.google.com/file/d/18j9_Y8EPq3jEnOXK4Qld3dn9pPPBlqRo/preview"
+    },
+    {
+      "id": "C2026-086",
+      "title": "MSS MPS Centenary Raffle Tickets Sale",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "status": "signed",
+      "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
+    }
+  ],
+  "homeworkToday": [
+    "中文: 1. 明續說評",
+    "中文: 2. 帶一上二書",
+    "English: 1. Do GB p. 10, 11",
+    "English: 2. Bring 'The boy Who Cried Wolf'",
+    "Maths: 1. BM 1B P.15 (3 – 9)",
+    "Others: 1. Bring rosary record card",
+    "Others: 2. Sci: SJ Corr"
+  ],
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkImageDate": "2026-11-12",
   "calendar": [
     {
       "date": "2026-11-12",
@@ -33,34 +71,9 @@
       "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
     }
   ],
-  "className": "1A",
-  "homeworkImageDate": "2026-11-12",
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkToday": [],
-  "notices": [
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/18j9_Y8EPq3jEnOXK4Qld3dn9pPPBlqRo/preview",
-      "date": "2026-11-11",
-      "deadline": "2026-11-16",
-      "id": "M2026-021-C",
-      "needsSign": false,
-      "signedAt": "2026-11-11 16:01:20",
-      "status": "signed",
-      "summary": "Sophelia is listed as a successful applicant for Lunch Helpers – Semester 2 (Tuesday); reply slip signed 11 November 2026.",
-      "title": "Successful Applicants of Lunch Helpers – Semester 2 (Tuesday)"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
-      "id": "C2026-086",
-      "needsSign": false,
-      "signedAt": "2026-10-22 15:58:12",
-      "status": "signed",
-      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-      "title": "MSS MPS Centenary Raffle Tickets Sale"
-    }
-  ],
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-12T13:02:54Z"
+  "retrieved_at": {
+    "user_local": "2026-11-12T22:09:22.411036+08:00",
+    "user_timezone": "Asia/Hong_Kong",
+    "utc": "2026-11-12T14:09:22.411036Z"
+  }
 }
