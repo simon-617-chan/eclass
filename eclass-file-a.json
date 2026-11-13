@@ -44,7 +44,6 @@
       "deadline": "2026-11-19",
       "id": "C2026-109",
       "needsSign": true,
-      "signedAt": null,
       "status": "pending",
       "summary": "Introduces the self-directed Putonghua learning app 'Star Reading' (星靈伴讀), available 13 November 2026 to 31 August 2027 with a Reading Reward Scheme; free to parents (Government grant covers the subscription). Reply slip to sign by 19 November 2026.",
       "title": "Introduction of the Self-directed Putonghua Learning App “Star Reading”(星靈伴讀)"
@@ -93,5 +92,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-13T07:03:02Z"
+  "syncedAt": "2026-11-13T07:04:03Z"
 }
