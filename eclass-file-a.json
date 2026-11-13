@@ -1,7 +1,7 @@
 {
  "studentName": "CHAN ON KIU SOPHELIA",
  "className": "1A",
- "syncedAt": "2026-11-13T10:03:55Z",
+ "syncedAt": "2026-11-13T10:06:11Z",
  "notices": [
   {
    "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
@@ -67,19 +67,58 @@
   }
  ],
  "homeworkToday": [
-  "Chinese: 1. 朗課七三次",
-  "English: 1. WIR syllabus given",
-  "English: 2. Do RW p.25, 26",
-  "English: 3. Corr GB p.10, 11",
-  "English: 4. Do WS",
-  "English: 5. Corr LN",
-  "Maths: 1. Stick and corr Number Sheet (2)",
-  "Maths: 2. BM 1B P.16",
-  "Others: 1. IT: Sign LPT",
-  "Others: 2. Hum Sign LPT",
-  "Others: 3. Read and sign C2026-108 (cert given)",
-  "Remarks: 1. Whole day school next week",
-  "Remarks: Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
+  {
+   "subject": "中文",
+   "title": "1. 朗課七三次"
+  },
+  {
+   "subject": "English",
+   "title": "1. WIR syllabus given"
+  },
+  {
+   "subject": "English",
+   "title": "2. Do RW p.25, 26"
+  },
+  {
+   "subject": "English",
+   "title": "3. Corr GB p.10, 11"
+  },
+  {
+   "subject": "English",
+   "title": "4. Do WS"
+  },
+  {
+   "subject": "English",
+   "title": "5. Corr LN"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "1. Stick and corr Number Sheet (2)"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "2. BM 1B P.16"
+  },
+  {
+   "subject": "Others",
+   "title": "1. IT: Sign LPT"
+  },
+  {
+   "subject": "Others",
+   "title": "2. Hum Sign LPT"
+  },
+  {
+   "subject": "Others",
+   "title": "3. Read and sign C2026-108 (cert given)"
+  },
+  {
+   "subject": "Remarks",
+   "title": "1. Whole day school next week"
+  },
+  {
+   "subject": "Remarks",
+   "title": "Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
+  }
  ],
  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
  "homeworkImageDate": "2026-11-13",
