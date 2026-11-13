@@ -39,6 +39,16 @@
   "homeworkToday": [],
   "notices": [
     {
+      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-11-20",
+      "id": "P2026-007",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "PTA Family Day Outing to Kai Tak Joypolis Sports on Saturday 5 December 2026, 12:15–3:30 pm; HK$250 per participant (adults and children same price), capacity 350 with a lottery if oversubscribed. Reply slip and crossed cheque (payable to 'Marymount Primary School Parent-Teacher Association') to the class teacher by 20 November 2026. Families with more than one daughter at MPS register under the eldest sister's name.",
+      "title": "Family Day Outing – Kai Tak Joypolis Sports (啟德JP超動感世界)"
+    },
+    {
       "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview",
       "date": "2026-11-13",
       "deadline": "2026-11-19",
@@ -92,5 +102,5 @@
     }
   ],
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-13T07:04:03Z"
+  "syncedAt": "2026-11-13T08:08:11Z"
 }
