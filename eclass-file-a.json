@@ -1,42 +1,7 @@
 {
- "calendar": [
-  {
-   "date": "2026-11-13",
-   "title": "Half Day School"
-  },
-  {
-   "date": "2026-11-27",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-11-28",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "National Constitution Day"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-  },
-  {
-   "date": "2026-12-05",
-   "title": "PTA Outing (TBC)"
-  },
-  {
-   "date": "2026-12-07",
-   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-  },
-  {
-   "date": "2026-12-11",
-   "title": "School Picnic (8:00 am - 3:00 pm)"
-  }
- ],
+ "studentName": "CHAN ON KIU SOPHELIA",
  "className": "1A",
- "homeworkImageDate": "2026-11-13",
- "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkToday": [],
+ "syncedAt": "2026-11-13T10:03:55Z",
  "notices": [
   {
    "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
@@ -101,6 +66,55 @@
    "title": "MSS MPS Centenary Raffle Tickets Sale"
   }
  ],
- "studentName": "CHAN ON KIU SOPHELIA",
- "syncedAt": "2026-11-13T09:06:10Z"
+ "homeworkToday": [
+  "Chinese: 1. 朗課七三次",
+  "English: 1. WIR syllabus given",
+  "English: 2. Do RW p.25, 26",
+  "English: 3. Corr GB p.10, 11",
+  "English: 4. Do WS",
+  "English: 5. Corr LN",
+  "Maths: 1. Stick and corr Number Sheet (2)",
+  "Maths: 2. BM 1B P.16",
+  "Others: 1. IT: Sign LPT",
+  "Others: 2. Hum Sign LPT",
+  "Others: 3. Read and sign C2026-108 (cert given)",
+  "Remarks: 1. Whole day school next week",
+  "Remarks: Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
+ ],
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkImageDate": "2026-11-13",
+ "calendar": [
+  {
+   "date": "2026-11-13",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-27",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-11-28",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "National Constitution Day"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "PTA Outing (TBC)"
+  },
+  {
+   "date": "2026-12-07",
+   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "School Picnic (8:00 am - 3:00 pm)"
+  }
+ ]
 }
