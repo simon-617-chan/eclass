@@ -1,7 +1,95 @@
 {
- "studentName": "CHAN ON KIU SOPHELIA",
+ "calendar": [
+  {
+   "date": "2026-11-13",
+   "title": "Half Day School"
+  },
+  {
+   "date": "2026-11-27",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-11-28",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "National Constitution Day"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "PTA Outing (TBC)"
+  },
+  {
+   "date": "2026-12-07",
+   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "School Picnic (8:00 am - 3:00 pm)"
+  }
+ ],
  "className": "1A",
- "syncedAt": "2026-11-13T10:06:11Z",
+ "homeworkImageDate": "2026-11-13",
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkToday": [
+  {
+   "subject": "中文",
+   "title": "1. 朗課七三次"
+  },
+  {
+   "subject": "English",
+   "title": "1. WIR syllabus given"
+  },
+  {
+   "subject": "English",
+   "title": "2. Do RW p.25, 26"
+  },
+  {
+   "subject": "English",
+   "title": "3. Corr GB p.10, 11"
+  },
+  {
+   "subject": "English",
+   "title": "4. Do WS"
+  },
+  {
+   "subject": "English",
+   "title": "5. Corr LN"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "1. Stick and corr Number Sheet (2)"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "2. BM 1B P.16"
+  },
+  {
+   "subject": "Others",
+   "title": "1. IT: Sign LPT"
+  },
+  {
+   "subject": "Others",
+   "title": "2. Hum Sign LPT"
+  },
+  {
+   "subject": "Others",
+   "title": "3. Read and sign C2026-108 (cert given)"
+  },
+  {
+   "subject": "Remarks",
+   "title": "1. Whole day school next week"
+  },
+  {
+   "subject": "Remarks",
+   "title": "Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
+  }
+ ],
  "notices": [
   {
    "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
@@ -66,94 +154,6 @@
    "title": "MSS MPS Centenary Raffle Tickets Sale"
   }
  ],
- "homeworkToday": [
-  {
-   "subject": "中文",
-   "title": "1. 朗課七三次"
-  },
-  {
-   "subject": "English",
-   "title": "1. WIR syllabus given"
-  },
-  {
-   "subject": "English",
-   "title": "2. Do RW p.25, 26"
-  },
-  {
-   "subject": "English",
-   "title": "3. Corr GB p.10, 11"
-  },
-  {
-   "subject": "English",
-   "title": "4. Do WS"
-  },
-  {
-   "subject": "English",
-   "title": "5. Corr LN"
-  },
-  {
-   "subject": "Mathematics",
-   "title": "1. Stick and corr Number Sheet (2)"
-  },
-  {
-   "subject": "Mathematics",
-   "title": "2. BM 1B P.16"
-  },
-  {
-   "subject": "Others",
-   "title": "1. IT: Sign LPT"
-  },
-  {
-   "subject": "Others",
-   "title": "2. Hum Sign LPT"
-  },
-  {
-   "subject": "Others",
-   "title": "3. Read and sign C2026-108 (cert given)"
-  },
-  {
-   "subject": "Remarks",
-   "title": "1. Whole day school next week"
-  },
-  {
-   "subject": "Remarks",
-   "title": "Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
-  }
- ],
- "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkImageDate": "2026-11-13",
- "calendar": [
-  {
-   "date": "2026-11-13",
-   "title": "Half Day School"
-  },
-  {
-   "date": "2026-11-27",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-11-28",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "National Constitution Day"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-  },
-  {
-   "date": "2026-12-05",
-   "title": "PTA Outing (TBC)"
-  },
-  {
-   "date": "2026-12-07",
-   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-  },
-  {
-   "date": "2026-12-11",
-   "title": "School Picnic (8:00 am - 3:00 pm)"
-  }
- ]
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-11-13T11:01:59Z"
 }
