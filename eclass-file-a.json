@@ -1,102 +1,102 @@
 {
- "calendar": [
-  {
-   "date": "2026-11-27",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-11-28",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "National Constitution Day"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-  },
-  {
-   "date": "2026-12-05",
-   "title": "PTA Outing (TBC)"
-  },
-  {
-   "date": "2026-12-07",
-   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-  },
-  {
-   "date": "2026-12-11",
-   "title": "School Picnic (8:00 am - 3:00 pm)"
-  }
- ],
- "className": "1A",
- "homeworkImageDate": "2026-11-13",
- "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkToday": [],
- "notices": [
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
-   "date": "2026-11-13",
-   "deadline": "2026-11-20",
-   "id": "P2026-007",
-   "needsSign": true,
-   "status": "pending",
-   "summary": "PTA Family Day Outing to Kai Tak Joypolis Sports on Saturday 5 December 2026, 12:15–3:30 pm; HK$250 per participant (adults and children same price), capacity 350 with a lottery if oversubscribed. Reply slip and crossed cheque (payable to 'Marymount Primary School Parent-Teacher Association') to the class teacher by 20 November 2026. Families with more than one daughter at MPS register under the eldest sister's name.",
-   "title": "Family Day Outing – Kai Tak Joypolis Sports (啟德JP超動感世界)"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview",
-   "date": "2026-11-13",
-   "deadline": "2026-11-19",
-   "id": "C2026-109",
-   "needsSign": true,
-   "status": "pending",
-   "summary": "Introduces the self-directed Putonghua learning app 'Star Reading' (星靈伴讀), available 13 November 2026 to 31 August 2027 with a Reading Reward Scheme; free to parents (Government grant covers the subscription). Reply slip to sign by 19 November 2026.",
-   "title": "Introduction of the Self-directed Putonghua Learning App “Star Reading”(星靈伴讀)"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-   "date": "2026-11-13",
-   "deadline": "2026-12-04",
-   "id": "C2026-108",
-   "needsSign": true,
-   "status": "pending",
-   "summary": "Write an encouraging message on a card and present your daughter with a certificate 'In Recognition of Persistent Effort'; submit photos of the message and presentation via Google Form by 4 December 2026 to earn 10 Family Connect credits. Reply slip to sign by 4 December 2026.",
-   "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview",
-   "date": "2026-11-13",
-   "deadline": "2026-11-20",
-   "id": "C2026-107",
-   "needsSign": true,
-   "status": "pending",
-   "summary": "Introduces the FAMILY CONNECT parent education programme (talks and workshops, parent-child activities, volunteer service and sharing) with a credit award scheme; 10 credits per activity, certificates at 50/60/70 annual credits. Reply slip to sign by 20 November 2026.",
-   "title": "Parent Education – FAMILY CONNECT"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/18j9_Y8EPq3jEnOXK4Qld3dn9pPPBlqRo/preview",
-   "date": "2026-11-11",
-   "deadline": "2026-11-16",
-   "id": "M2026-021-C",
-   "needsSign": false,
-   "signedAt": "2026-11-11 16:01:20",
-   "status": "signed",
-   "summary": "Sophelia is listed as a successful applicant for Lunch Helpers – Semester 2 (Tuesday); reply slip signed 11 November 2026.",
-   "title": "Successful Applicants of Lunch Helpers – Semester 2 (Tuesday)"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-   "date": "2026-10-20",
-   "deadline": "2026-11-23",
-   "id": "C2026-086",
-   "needsSign": false,
-   "signedAt": "2026-10-22 15:58:12",
-   "status": "signed",
-   "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
-   "title": "MSS MPS Centenary Raffle Tickets Sale"
-  }
- ],
- "studentName": "CHAN ON KIU SOPHELIA",
- "syncedAt": "2026-11-14T04:03:44Z"
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am - 3:00 pm)"
+    }
+  ],
+  "className": "1A",
+  "homeworkImageDate": "2026-11-13",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [],
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-11-20",
+      "id": "P2026-007",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "PTA Family Day Outing to Kai Tak Joypolis Sports on Saturday 5 December 2026, 12:15–3:30 pm; HK$250 per participant (adults and children same price), capacity 350 with a lottery if oversubscribed. Reply slip and crossed cheque (payable to 'Marymount Primary School Parent-Teacher Association') to the class teacher by 20 November 2026. Families with more than one daughter at MPS register under the eldest sister's name.",
+      "title": "Family Day Outing – Kai Tak Joypolis Sports (啟德JP超動感世界)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-11-19",
+      "id": "C2026-109",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "Introduces the self-directed Putonghua learning app 'Star Reading' (星靈伴讀), available 13 November 2026 to 31 August 2027 with a Reading Reward Scheme; free to parents (Government grant covers the subscription). Reply slip to sign by 19 November 2026.",
+      "title": "Introduction of the Self-directed Putonghua Learning App “Star Reading”(星靈伴讀)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-12-04",
+      "id": "C2026-108",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "Write an encouraging message on a card and present your daughter with a certificate 'In Recognition of Persistent Effort'; submit photos of the message and presentation via Google Form by 4 December 2026 to earn 10 Family Connect credits. Reply slip to sign by 4 December 2026.",
+      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-11-20",
+      "id": "C2026-107",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "Introduces the FAMILY CONNECT parent education programme (talks and workshops, parent-child activities, volunteer service and sharing) with a credit award scheme; 10 credits per activity, certificates at 50/60/70 annual credits. Reply slip to sign by 20 November 2026.",
+      "title": "Parent Education – FAMILY CONNECT"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/18j9_Y8EPq3jEnOXK4Qld3dn9pPPBlqRo/preview",
+      "date": "2026-11-11",
+      "deadline": "2026-11-16",
+      "id": "M2026-021-C",
+      "needsSign": false,
+      "signedAt": "2026-11-11 16:01:20",
+      "status": "signed",
+      "summary": "Sophelia is listed as a successful applicant for Lunch Helpers – Semester 2 (Tuesday); reply slip signed 11 November 2026.",
+      "title": "Successful Applicants of Lunch Helpers – Semester 2 (Tuesday)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+      "date": "2026-10-20",
+      "deadline": "2026-11-23",
+      "id": "C2026-086",
+      "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
+      "summary": "Return the completed reply slip (hard copy), payment, raffle ticket stubs and unsold tickets on or before 23 November 2026.",
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
+    }
+  ],
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-14T10:04:43Z"
 }
