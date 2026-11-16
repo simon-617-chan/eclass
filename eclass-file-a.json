@@ -33,11 +33,26 @@
  "homeworkImageDate": "2026-11-16",
  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
  "homeworkToday": [
-  "Chinese: 生（七）8-13+改正",
-  "Maths: Spell Number Words (20 – 100)",
-  "Others: Do FJ",
-  "Others: 普簽改 LPT（1-3）",
-  "Others: 普朗書 P.21 五次"
+  {
+   "subject": "Chinese",
+   "title": "生（七）8-13+改正"
+  },
+  {
+   "subject": "Maths",
+   "title": "Spell Number Words (20 – 100)"
+  },
+  {
+   "subject": "Others",
+   "title": "Do FJ"
+  },
+  {
+   "subject": "Others",
+   "title": "普簽改 LPT（1-3）"
+  },
+  {
+   "subject": "Others",
+   "title": "普朗書 P.21 五次"
+  }
  ],
  "notices": [
   {
