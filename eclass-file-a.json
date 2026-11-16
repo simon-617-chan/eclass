@@ -1,17 +1,48 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am - 3:00 pm)"
+    }
+  ],
   "className": "1A",
-  "syncedAt": "2026-11-16T04:05:56Z",
+  "homeworkImageDate": "2026-11-13",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [],
   "notices": [
     {
-      "id": "C2026-112",
-      "title": "The Hong Kong Budding Poets (English) Award 2026/27",
+      "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview",
       "date": "2026-11-16",
       "deadline": "2026-11-23",
-      "status": "pending",
+      "id": "C2026-112",
       "needsSign": true,
+      "status": "pending",
       "summary": "The Hong Kong Budding Poets (English) Award 2026/27 — a territory-wide English poetry competition organised by HKAGE and supported by the Education Bureau. Interested students submit one poem (max 40 lines) per section, hard copy to Ms. A. Lam by 18 January 2027; the school may nominate students if entries exceed 40 per school. Reply slip due 23 November 2026.",
-      "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview"
+      "title": "The Hong Kong Budding Poets (English) Award 2026/27"
     },
     {
       "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
@@ -76,42 +107,6 @@
       "title": "MSS MPS Centenary Raffle Tickets Sale"
     }
   ],
-  "homeworkToday": [],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-13",
-  "calendar": [
-    {
-      "date": "2026-11-27",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "National Constitution Day"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-    },
-    {
-      "date": "2026-12-05",
-      "title": "PTA Outing (TBC)"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
-    }
-  ],
-  "retrieved_at": {
-    "user_local": "2026-11-16T12:05:56.000+08:00",
-    "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-16T04:05:56.000Z"
-  }
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-16T07:10:33Z"
 }
