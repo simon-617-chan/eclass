@@ -1,7 +1,67 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am - 3:00 pm)"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Distribution of P.6 LAR"
+    }
+  ],
   "className": "1A",
-  "syncedAt": "2026-11-18T13:06:25Z",
+  "homeworkImageDate": "2026-11-18",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [
+    {
+      "subject": "中文",
+      "title": "筆記：造句兩句（的時候）"
+    },
+    {
+      "subject": "English",
+      "title": "Read Lit. Bk. P.6-10 (3 times)"
+    },
+    {
+      "subject": "Maths",
+      "title": "BM P.17 – 18 corr and do P.19"
+    },
+    {
+      "subject": "Others",
+      "title": "Do FJ"
+    },
+    {
+      "subject": "Others",
+      "title": "普朗書 P.21,22,24 五次"
+    },
+    {
+      "subject": "Remarks",
+      "title": "Sign eNotice 113; Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
+    }
+  ],
   "notices": [
     {
       "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview",
@@ -89,66 +149,11 @@
       "title": "MSS MPS Centenary Raffle Tickets Sale"
     }
   ],
-  "homeworkToday": [
-    {
-      "subject": "中文",
-      "title": "筆記：造句兩句（的時候）"
-    },
-    {
-      "subject": "English",
-      "title": "Read Lit. Bk. P.6-10 (3 times)"
-    },
-    {
-      "subject": "Maths",
-      "title": "BM P.17 – 18 corr and do P.19"
-    },
-    {
-      "subject": "Others",
-      "title": "Do FJ"
-    },
-    {
-      "subject": "Others",
-      "title": "普朗書 P.21,22,24 五次"
-    },
-    {
-      "subject": "Remarks",
-      "title": "Sign eNotice 113; Return yellow Centenary Raffle ticket reply slip + envelope (with unsold raffle tickets + cheque + sold ticket stubs in it) by Nov 23"
-    }
-  ],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-18",
-  "calendar": [
-    {
-      "date": "2026-11-27",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "National Constitution Day"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-    },
-    {
-      "date": "2026-12-05",
-      "title": "PTA Outing (TBC)"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "Distribution of P.6 LAR"
-    }
-  ]
+  "retrieved_at": {
+    "user_local": "2026-11-18T22:10:05.000+08:00",
+    "user_timezone": "Asia/Hong_Kong",
+    "utc": "2026-11-18T14:10:05.000Z"
+  },
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-18T14:10:05Z"
 }
