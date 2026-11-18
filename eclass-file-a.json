@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-18T08:07:34Z",
+  "syncedAt": "2026-11-18T09:06:27Z",
   "notices": [
     {
       "id": "C2026-114",
@@ -104,7 +104,11 @@
     },
     {
       "subject": "Others",
-      "title": "Do FJ; 普朗書 P.21,22,24 五次"
+      "title": "Do FJ"
+    },
+    {
+      "subject": "Others",
+      "title": "普朗書 P.21,22,24 五次"
     }
   ],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
@@ -136,7 +140,7 @@
     },
     {
       "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
+      "title": "School Picnic (8:00 am -3:00 pm)"
     },
     {
       "date": "2026-12-15",
