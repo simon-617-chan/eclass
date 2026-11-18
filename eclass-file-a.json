@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-18T07:07:17Z",
+  "syncedAt": "2026-11-18T08:07:34Z",
   "notices": [
     {
       "id": "C2026-114",
@@ -89,9 +89,26 @@
       "signedAt": "2026-10-22 15:58:12"
     }
   ],
-  "homeworkToday": [],
+  "homeworkToday": [
+    {
+      "subject": "中文",
+      "title": "筆記：造句兩句（的時候）"
+    },
+    {
+      "subject": "English",
+      "title": "Read Lit. Bk. P.6-10 (3 times)"
+    },
+    {
+      "subject": "Maths",
+      "title": "BM P.17 – 18 corr and do P.19"
+    },
+    {
+      "subject": "Others",
+      "title": "Do FJ; 普朗書 P.21,22,24 五次"
+    }
+  ],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-17",
+  "homeworkImageDate": "2026-11-18",
   "calendar": [
     {
       "date": "2026-11-27",
