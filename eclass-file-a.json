@@ -1,109 +1,122 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-19T07:01:33Z",
+  "syncedAt": "2026-11-19T08:06:13Z",
   "notices": [
     {
-      "id": "C2026-115",
-      "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂",
+      "id": "P2026-008",
+      "title": "Parent Helpers for Christmas Party",
+      "date": "2026-11-19",
+      "deadline": "2026-11-24",
+      "status": "pending",
+      "needsSign": true,
+      "signedAt": null,
+      "summary": "PTA recruiting parent volunteers for the Christmas Party on the morning of 17 December 2026 (Santa Claus or leading festive games); reply by 24 November 2026, one parent per family, ballot if oversubscribed, successful applicants notified by 27 November 2026.",
+      "attachmentUrl": "https://drive.google.com/file/d/1I1rSaL3tScGKoU-mBpvuoLHMEyPYweds/preview"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview",
       "date": "2026-11-19",
       "deadline": "2026-11-26",
-      "status": "pending",
+      "id": "C2026-115",
       "needsSign": true,
+      "status": "pending",
       "summary": "Invitation to December Parent Talks under the Jockey Club Family Resilience Project; reply slip asks whether the parent will attend and which session (choice of timeslots).",
-      "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview"
+      "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂",
+      "signedAt": null
     },
     {
-      "id": "C2026-114",
-      "title": "Changes to Homework Reminder Uploads on eClass",
+      "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview",
       "date": "2026-11-18",
       "deadline": "2026-11-23",
-      "status": "signed",
+      "id": "C2026-114",
       "needsSign": false,
       "signedAt": "2026-11-19 02:29:48",
+      "status": "signed",
       "summary": "Changes to how homework reminders are uploaded on eClass; acknowledgement reply slip.",
-      "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview"
+      "title": "Changes to Homework Reminder Uploads on eClass"
     },
     {
-      "id": "C2026-113",
-      "title": "Service Demand Survey of School-based After School Care Service Scheme 「在校課後託管服務計劃」服務需求調查",
+      "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview",
       "date": "2026-11-18",
       "deadline": "2026-11-22",
-      "status": "signed",
+      "id": "C2026-113",
       "needsSign": false,
       "signedAt": "2026-11-19 02:29:27",
+      "status": "signed",
       "summary": "Survey of demand for the school-based after-school care service scheme.",
-      "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview"
+      "title": "Service Demand Survey of School-based After School Care Service Scheme 「在校課後託管服務計劃」服務需求調查"
     },
     {
-      "id": "C2026-112",
-      "title": "The Hong Kong Budding Poets (English) Award 2026/27",
+      "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview",
       "date": "2026-11-16",
       "deadline": "2026-11-23",
-      "status": "pending",
+      "id": "C2026-112",
       "needsSign": true,
+      "status": "pending",
       "summary": "Invitation for the student to join The Hong Kong Budding Poets (English) Award 2026/27; reply slip asks whether the daughter would like to join.",
-      "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview"
+      "title": "The Hong Kong Budding Poets (English) Award 2026/27",
+      "signedAt": null
     },
     {
-      "id": "P2026-007",
-      "title": "Family Day Outing – Kai Tak Joypolis Sports (啟德JP超動感世界)",
+      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
       "date": "2026-11-13",
       "deadline": "2026-11-20",
-      "status": "signed",
+      "id": "P2026-007",
       "needsSign": false,
       "signedAt": "2026-11-17 06:47:51",
+      "status": "signed",
       "summary": "Family Day outing to Kai Tak Joypolis Sports.",
-      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview"
+      "title": "Family Day Outing – Kai Tak Joypolis Sports (啟德JP超動感世界)"
     },
     {
-      "id": "C2026-109",
-      "title": "Introduction of the Self-directed Putonghua Learning App “Star Reading”(星靈伴讀)",
+      "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview",
       "date": "2026-11-13",
       "deadline": "2026-11-19",
-      "status": "signed",
+      "id": "C2026-109",
       "needsSign": false,
       "signedAt": "2026-11-17 06:47:37",
+      "status": "signed",
       "summary": "Introduction of the self-directed Putonghua learning app “Star Reading” (星靈伴讀).",
-      "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview"
+      "title": "Introduction of the Self-directed Putonghua Learning App “Star Reading”(星靈伴讀)"
     },
     {
-      "id": "C2026-108",
-      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)",
+      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
       "date": "2026-11-13",
       "deadline": "2026-12-04",
-      "status": "signed",
+      "id": "C2026-108",
       "needsSign": false,
       "signedAt": "2026-11-17 06:47:33",
+      "status": "signed",
       "summary": "Family Connect activity on expressing love and support, linked to Summative Assessment 1.",
-      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview"
+      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
     },
     {
-      "id": "C2026-107",
-      "title": "Parent Education – FAMILY CONNECT",
+      "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview",
       "date": "2026-11-13",
       "deadline": "2026-11-20",
-      "status": "signed",
+      "id": "C2026-107",
       "needsSign": false,
       "signedAt": "2026-11-17 06:47:22",
+      "status": "signed",
       "summary": "Parent education notice under the FAMILY CONNECT programme.",
-      "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview"
+      "title": "Parent Education – FAMILY CONNECT"
     },
     {
-      "id": "C2026-086",
-      "title": "MSS MPS Centenary Raffle Tickets Sale",
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
       "date": "2026-10-20",
       "deadline": "2026-11-23",
-      "status": "signed",
+      "id": "C2026-086",
       "needsSign": false,
       "signedAt": "2026-10-22 15:58:12",
+      "status": "signed",
       "summary": "Sale of MSS MPS Centenary raffle tickets.",
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
+      "title": "MSS MPS Centenary Raffle Tickets Sale"
     }
   ],
   "homeworkToday": [],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-18",
+  "homeworkImageDate": "2026-11-19",
   "calendar": [
     {
       "date": "2026-11-27",
@@ -119,7 +132,7 @@
     },
     {
       "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+      "title": "P.1-6 School Outreach Vaccination (2nddose for specific students)"
     },
     {
       "date": "2026-12-05",
@@ -131,7 +144,7 @@
     },
     {
       "date": "2026-12-11",
-      "title": "School Picnic"
+      "title": "School Picnic (8:00 am -3:00 pm)"
     },
     {
       "date": "2026-12-15",
