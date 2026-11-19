@@ -40,7 +40,20 @@
  "className": "1A",
  "homeworkImageDate": "2026-11-19",
  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkToday": [],
+ "homeworkToday": [
+  {
+   "subject": "Chinese",
+   "title": "27/11 dictation (默書範圍見家課冊)"
+  },
+  {
+   "subject": "Chinese",
+   "title": "作 P.2-3"
+  },
+  {
+   "subject": "Maths",
+   "title": "WB P.12-13"
+  }
+ ],
  "notices": [
   {
    "attachmentUrl": "https://drive.google.com/file/d/1I1rSaL3tScGKoU-mBpvuoLHMEyPYweds/preview",
@@ -150,11 +163,11 @@
    "title": "MSS MPS Centenary Raffle Tickets Sale"
   }
  ],
- "studentName": "CHAN ON KIU SOPHELIA",
- "syncedAt": "2026-11-19T12:02:03Z",
  "retrieved_at": {
-  "user_local": "2026-11-19T20:02:09.000+08:00",
+  "user_local": "2026-11-19T20:58:00.903+08:00",
   "user_timezone": "Asia/Hong_Kong",
-  "utc": "2026-11-19T12:02:09.000Z"
- }
+  "utc": "2026-11-19T12:58:00.903Z"
+ },
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-11-19T13:05:41Z"
 }
