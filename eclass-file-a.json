@@ -20,7 +20,7 @@
       "date": "2026-11-18",
       "deadline": "2026-11-23",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-19 02:29:48",
       "summary": "Changes to how homework reminders are uploaded on eClass; acknowledgement reply slip.",
       "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview"
@@ -31,7 +31,7 @@
       "date": "2026-11-18",
       "deadline": "2026-11-22",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-19 02:29:27",
       "summary": "Survey of demand for the school-based after-school care service scheme.",
       "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview"
@@ -53,7 +53,7 @@
       "date": "2026-11-13",
       "deadline": "2026-11-20",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-17 06:47:51",
       "summary": "Family Day outing to Kai Tak Joypolis Sports.",
       "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview"
@@ -64,7 +64,7 @@
       "date": "2026-11-13",
       "deadline": "2026-11-19",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-17 06:47:37",
       "summary": "Introduction of the self-directed Putonghua learning app “Star Reading” (星靈伴讀).",
       "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview"
@@ -75,7 +75,7 @@
       "date": "2026-11-13",
       "deadline": "2026-12-04",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-17 06:47:33",
       "summary": "Family Connect activity on expressing love and support, linked to Summative Assessment 1.",
       "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview"
@@ -86,7 +86,7 @@
       "date": "2026-11-13",
       "deadline": "2026-11-20",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-11-17 06:47:22",
       "summary": "Parent education notice under the FAMILY CONNECT programme.",
       "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview"
@@ -97,7 +97,7 @@
       "date": "2026-10-20",
       "deadline": "2026-11-23",
       "status": "signed",
-      "needsSign": true,
+      "needsSign": false,
       "signedAt": "2026-10-22 15:58:12",
       "summary": "Sale of MSS MPS Centenary raffle tickets.",
       "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
