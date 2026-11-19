@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-19T10:05:41Z",
+  "syncedAt": "2026-11-19T11:00:39Z",
   "notices": [
     {
       "id": "P2026-008",
@@ -10,6 +10,7 @@
       "deadline": "2026-11-24",
       "status": "pending",
       "needsSign": true,
+      "signedAt": null,
       "summary": "PTA recruiting parent volunteers for the Christmas Party on the morning of 17 December 2026 (Santa Claus or leading festive games); reply by 24 November 2026, one parent per family, ballot if oversubscribed, successful applicants notified by 27 November 2026.",
       "attachmentUrl": "https://drive.google.com/file/d/1I1rSaL3tScGKoU-mBpvuoLHMEyPYweds/preview"
     },
@@ -20,6 +21,7 @@
       "deadline": "2026-11-26",
       "status": "pending",
       "needsSign": true,
+      "signedAt": null,
       "summary": "Invitation to December Parent Talks under the Jockey Club Family Resilience Project; reply slip asks whether the parent will attend and which session (choice of timeslots).",
       "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview"
     },
@@ -30,9 +32,9 @@
       "deadline": "2026-11-23",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-19 02:29:48",
       "summary": "Changes to how homework reminders are uploaded on eClass; acknowledgement reply slip.",
-      "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview",
-      "signedAt": "2026-11-19 02:29:48"
+      "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview"
     },
     {
       "id": "C2026-113",
@@ -41,9 +43,9 @@
       "deadline": "2026-11-22",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-19 02:29:27",
       "summary": "Survey of demand for the school-based after-school care service scheme.",
-      "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview",
-      "signedAt": "2026-11-19 02:29:27"
+      "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview"
     },
     {
       "id": "C2026-112",
@@ -52,6 +54,7 @@
       "deadline": "2026-11-23",
       "status": "pending",
       "needsSign": true,
+      "signedAt": null,
       "summary": "Invitation for the student to join The Hong Kong Budding Poets (English) Award 2026/27; reply slip asks whether the daughter would like to join.",
       "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview"
     },
@@ -62,9 +65,9 @@
       "deadline": "2026-11-20",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-17 06:47:51",
       "summary": "Family Day outing to Kai Tak Joypolis Sports.",
-      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview",
-      "signedAt": "2026-11-17 06:47:51"
+      "attachmentUrl": "https://drive.google.com/file/d/1wfhL2F6GboyYipcobMpjiJ9nJ1JF1kuC/preview"
     },
     {
       "id": "C2026-109",
@@ -73,9 +76,9 @@
       "deadline": "2026-11-19",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-17 06:47:37",
       "summary": "Introduction of the self-directed Putonghua learning app “Star Reading” (星靈伴讀).",
-      "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview",
-      "signedAt": "2026-11-17 06:47:37"
+      "attachmentUrl": "https://drive.google.com/file/d/1gCiyrKCwwClkhxbtWUC9hLoIBjixkVSC/preview"
     },
     {
       "id": "C2026-108",
@@ -84,9 +87,9 @@
       "deadline": "2026-12-04",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-17 06:47:33",
       "summary": "Family Connect activity on expressing love and support, linked to Summative Assessment 1.",
-      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-      "signedAt": "2026-11-17 06:47:33"
+      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview"
     },
     {
       "id": "C2026-107",
@@ -95,9 +98,9 @@
       "deadline": "2026-11-20",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-11-17 06:47:22",
       "summary": "Parent education notice under the FAMILY CONNECT programme.",
-      "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview",
-      "signedAt": "2026-11-17 06:47:22"
+      "attachmentUrl": "https://drive.google.com/file/d/1mLv_ZmAcCeyXRfubiC9P4prL-qz6cMkS/preview"
     },
     {
       "id": "C2026-086",
@@ -106,12 +109,15 @@
       "deadline": "2026-11-23",
       "status": "signed",
       "needsSign": false,
+      "signedAt": "2026-10-22 15:58:12",
       "summary": "Sale of MSS MPS Centenary raffle tickets.",
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "signedAt": "2026-10-22 15:58:12"
+      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview"
     }
   ],
-  "homeworkToday": [],
+  "homeworkToday": [
+    "Chinese (中文): 27/11 默 (默書範圍見家課冊); 作 P.2-3",
+    "Maths: WB P.12-13"
+  ],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
   "homeworkImageDate": "2026-11-19",
   "calendar": [
