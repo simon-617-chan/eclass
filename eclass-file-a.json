@@ -1,67 +1,7 @@
 {
-  "calendar": [
-    {
-      "date": "2026-11-27",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "National Constitution Day"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-    },
-    {
-      "date": "2026-12-05",
-      "title": "PTA Outing (TBC)"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "Distribution of P.6 LAR"
-    },
-    {
-      "date": "2026-12-17",
-      "title": "Christmas Programme"
-    },
-    {
-      "date": "2026-12-18",
-      "title": "Staff Development Day (No School)"
-    }
-  ],
+  "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "homeworkImageDate": "2026-11-20",
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkToday": [
-    {
-      "subject": "中文",
-      "title": "讀課本 P. 27"
-    },
-    {
-      "subject": "English",
-      "title": "Read Lit. Bk. P.12-14 (3 times)"
-    },
-    {
-      "subject": "Maths",
-      "title": "MPS 5"
-    },
-    {
-      "subject": "Maths",
-      "title": "Speed Plus corr + sign"
-    }
-  ],
+  "syncedAt": "2026-11-20T10:06:34Z",
   "notices": [
     {
       "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
@@ -180,6 +120,62 @@
       "title": "MSS MPS Centenary Raffle Tickets Sale"
     }
   ],
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-20T09:05:40Z"
+  "homeworkToday": [
+    {
+      "subject": "中文",
+      "title": "語基 P. 27"
+    },
+    {
+      "subject": "English",
+      "title": "Read Lit. Bk. P.12-14 (3 times)"
+    },
+    {
+      "subject": "Maths",
+      "title": "MPS 5"
+    },
+    {
+      "subject": "Maths",
+      "title": "Speed Plus corr + sign"
+    }
+  ],
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkImageDate": "2026-11-20",
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am - 3:00 pm)"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Distribution of P.6 LAR"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Christmas Programme"
+    }
+  ]
 }
