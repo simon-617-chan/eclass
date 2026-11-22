@@ -39,6 +39,10 @@
     {
       "date": "2026-12-18",
       "title": "Staff Development Day (No School)"
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Christmas and New Year holidays"
     }
   ],
   "className": "1A",
@@ -102,17 +106,6 @@
       "title": "Changes to Homework Reminder Uploads on eClass"
     },
     {
-      "attachmentUrl": "https://drive.google.com/file/d/1t95boaEJDAV0Ca3v0I46vvQzylvk780E/preview",
-      "date": "2026-11-18",
-      "deadline": "2026-11-22",
-      "id": "C2026-113",
-      "needsSign": false,
-      "signedAt": "2026-11-19 02:29:27",
-      "status": "signed",
-      "summary": "Survey of demand for the school-based after-school care service scheme.",
-      "title": "Service Demand Survey of School-based After School Care Service Scheme 「在校課後託管服務計劃」服務需求調查"
-    },
-    {
       "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview",
       "date": "2026-11-16",
       "deadline": "2026-11-23",
@@ -147,10 +140,10 @@
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-22T17:58:04.949+08:00",
+    "user_local": "2026-11-23T04:57:10.044+08:00",
     "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-22T09:58:04.949Z"
+    "utc": "2026-11-22T20:57:10.044Z"
   },
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-22T10:03:41Z"
+  "syncedAt": "2026-11-22T21:09:19Z"
 }
