@@ -1,169 +1,170 @@
 {
-  "calendar": [
-    {
-      "date": "2026-11-27",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "National Constitution Day"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-    },
-    {
-      "date": "2026-12-05",
-      "title": "PTA Outing (TBC)"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "Distribution of P.6 LAR"
-    },
-    {
-      "date": "2026-12-17",
-      "title": "Christmas Programme"
-    },
-    {
-      "date": "2026-12-18",
-      "title": "Staff Development Day (No School)"
-    },
-    {
-      "date": "2026-12-21",
-      "title": "Christmas and New Year holidays"
-    }
-  ],
-  "className": "1A",
-  "homeworkImageDate": "2026-11-23",
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkToday": [],
-  "notices": [
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
-      "date": "2026-11-23",
-      "deadline": "2026-11-26",
-      "id": "C2026-120",
-      "needsSign": true,
-      "status": "pending",
-      "summary": "Parent-Teacher Interview for P.1-P.4 on Saturday 9 January 2027, by appointment with class teachers; Learning Progress Report (P.1) given out. Reply by 26 November 2026 with preferred time slot (8:00-10:30am, 10:30am-12:30pm or 1:30-4:00pm).",
-      "title": "Parent-Teacher Interview"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
-      "date": "2026-11-23",
-      "deadline": "2026-11-30",
-      "id": "C2026-119",
-      "needsSign": true,
-      "status": "pending",
-      "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026.",
-      "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
-      "date": "2026-11-20",
-      "deadline": "2026-11-27",
-      "id": "C2026-118-P1-2",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:35:47",
-      "status": "signed",
-      "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch.",
-      "title": "School Picnic 2026-27 (P.1, P.2)"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1sxjmRCHGJKFu1_NFIcImuOWFMPsyuSY0/preview",
-      "date": "2026-11-20",
-      "deadline": "2026-11-26",
-      "id": "C2026-117",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:37:35",
-      "status": "signed",
-      "summary": "Reading Team invites parent volunteers as Reading Mom and Dad for P.1-P.2 storytelling sessions during Flow Time (1:50-2:45pm) on selected Mondays January-April 2027; reply by 26 November 2026, successful applicants notified by e-memo by 4 December 2026.",
-      "title": "Reading Mom and Dad"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1I1rSaL3tScGKoU-mBpvuoLHMEyPYweds/preview",
-      "date": "2026-11-19",
-      "deadline": "2026-11-24",
-      "id": "P2026-008",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:35:17",
-      "status": "signed",
-      "summary": "PTA recruiting parent volunteers for the Christmas Party on the morning of 17 December 2026 (Santa Claus or leading festive games); reply by 24 November 2026, one parent per family, ballot if oversubscribed, successful applicants notified by 27 November 2026.",
-      "title": "Parent Helpers for Christmas Party"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview",
-      "date": "2026-11-19",
-      "deadline": "2026-11-26",
-      "id": "C2026-115",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:34:58",
-      "status": "signed",
-      "summary": "Invitation to December Parent Talks under the Jockey Club Family Resilience Project; reply slip asks whether the parent will attend and which session (choice of timeslots).",
-      "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview",
-      "date": "2026-11-18",
-      "deadline": "2026-11-23",
-      "id": "C2026-114",
-      "needsSign": false,
-      "signedAt": "2026-11-19 02:29:48",
-      "status": "signed",
-      "summary": "Changes to how homework reminders are uploaded on eClass; acknowledgement reply slip.",
-      "title": "Changes to Homework Reminder Uploads on eClass"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview",
-      "date": "2026-11-16",
-      "deadline": "2026-11-23",
-      "id": "C2026-112",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:39:17",
-      "status": "signed",
-      "summary": "Invitation for the student to join The Hong Kong Budding Poets (English) Award 2026/27; reply slip asks whether the daughter would like to join.",
-      "title": "The Hong Kong Budding Poets (English) Award 2026/27"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-      "date": "2026-11-13",
-      "deadline": "2026-12-04",
-      "id": "C2026-108",
-      "needsSign": false,
-      "signedAt": "2026-11-17 06:47:33",
-      "status": "signed",
-      "summary": "Family Connect activity on expressing love and support, linked to Summative Assessment 1.",
-      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
-      "date": "2026-10-20",
-      "deadline": "2026-11-23",
-      "id": "C2026-086",
-      "needsSign": false,
-      "signedAt": "2026-10-22 15:58:12",
-      "status": "signed",
-      "summary": "Sale of MSS MPS Centenary raffle tickets.",
-      "title": "MSS MPS Centenary Raffle Tickets Sale"
-    }
-  ],
-  "retrieved_at": {
-    "user_local": "2026-11-23T16:59:15.308+08:00",
-    "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-23T08:59:15.308Z"
+ "calendar": [
+  {
+   "date": "2026-11-27",
+   "title": "P.5 Overnight Wild Camp"
   },
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-23T09:04:51Z"
+  {
+   "date": "2026-11-28",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "National Constitution Day"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "PTA Outing (TBC)"
+  },
+  {
+   "date": "2026-12-07",
+   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "School Picnic (8:00 am - 3:00 pm)"
+  },
+  {
+   "date": "2026-12-15",
+   "title": "Distribution of P.6 LAR"
+  },
+  {
+   "date": "2026-12-17",
+   "title": "Christmas Programme"
+  },
+  {
+   "date": "2026-12-18",
+   "title": "Staff Development Day (No School)"
+  },
+  {
+   "date": "2026-12-21",
+   "title": "Christmas and New Year holidays"
+  }
+ ],
+ "className": "1A",
+ "homeworkImageDate": "2026-11-23",
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkToday": [
+  "Chinese: 朗課八 3次",
+  "English: VB P.6; WIR tmr",
+  "Maths: Elf 1B (all) + self-check (hand in on 27/11)",
+  "Others: FJ P.17-18; Bring things for iMaster tmr",
+  "Remarks: Community Chest receipt given"
+ ],
+ "notices": [
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
+   "date": "2026-11-23",
+   "deadline": "2026-11-26",
+   "id": "C2026-120",
+   "needsSign": true,
+   "status": "pending",
+   "summary": "Parent-Teacher Interview for P.1-P.4 on Saturday 9 January 2027, by appointment with class teachers; Learning Progress Report (P.1) given out. Reply by 26 November 2026 with preferred time slot (8:00-10:30am, 10:30am-12:30pm or 1:30-4:00pm).",
+   "title": "Parent-Teacher Interview"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
+   "date": "2026-11-23",
+   "deadline": "2026-11-30",
+   "id": "C2026-119",
+   "needsSign": true,
+   "status": "pending",
+   "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026.",
+   "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
+   "date": "2026-11-20",
+   "deadline": "2026-11-27",
+   "id": "C2026-118-P1-2",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:35:47",
+   "status": "signed",
+   "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch.",
+   "title": "School Picnic 2026-27 (P.1, P.2)"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1sxjmRCHGJKFu1_NFIcImuOWFMPsyuSY0/preview",
+   "date": "2026-11-20",
+   "deadline": "2026-11-26",
+   "id": "C2026-117",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:37:35",
+   "status": "signed",
+   "summary": "Reading Team invites parent volunteers as Reading Mom and Dad for P.1-P.2 storytelling sessions during Flow Time (1:50-2:45pm) on selected Mondays January-April 2027; reply by 26 November 2026, successful applicants notified by e-memo by 4 December 2026.",
+   "title": "Reading Mom and Dad"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1I1rSaL3tScGKoU-mBpvuoLHMEyPYweds/preview",
+   "date": "2026-11-19",
+   "deadline": "2026-11-24",
+   "id": "P2026-008",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:35:17",
+   "status": "signed",
+   "summary": "PTA recruiting parent volunteers for the Christmas Party on the morning of 17 December 2026 (Santa Claus or leading festive games); reply by 24 November 2026, one parent per family, ballot if oversubscribed, successful applicants notified by 27 November 2026.",
+   "title": "Parent Helpers for Christmas Party"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview",
+   "date": "2026-11-19",
+   "deadline": "2026-11-26",
+   "id": "C2026-115",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:34:58",
+   "status": "signed",
+   "summary": "Invitation to December Parent Talks under the Jockey Club Family Resilience Project; reply slip asks whether the parent will attend and which session (choice of timeslots).",
+   "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1sinZEHk60fWLa4-fijwkrU3zBh1pEB4Z/preview",
+   "date": "2026-11-18",
+   "deadline": "2026-11-23",
+   "id": "C2026-114",
+   "needsSign": false,
+   "signedAt": "2026-11-19 02:29:48",
+   "status": "signed",
+   "summary": "Changes to how homework reminders are uploaded on eClass; acknowledgement reply slip.",
+   "title": "Changes to Homework Reminder Uploads on eClass"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1gZ8iNBfq2qmPvlESQzIXnyb8Q1BQI7YM/preview",
+   "date": "2026-11-16",
+   "deadline": "2026-11-23",
+   "id": "C2026-112",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:39:17",
+   "status": "signed",
+   "summary": "Invitation for the student to join The Hong Kong Budding Poets (English) Award 2026/27; reply slip asks whether the daughter would like to join.",
+   "title": "The Hong Kong Budding Poets (English) Award 2026/27"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
+   "date": "2026-11-13",
+   "deadline": "2026-12-04",
+   "id": "C2026-108",
+   "needsSign": false,
+   "signedAt": "2026-11-17 06:47:33",
+   "status": "signed",
+   "summary": "Family Connect activity on expressing love and support, linked to Summative Assessment 1.",
+   "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/13yuRYtj9raJyErUrTOMRcr0jxO-ZWiTf/preview",
+   "date": "2026-10-20",
+   "deadline": "2026-11-23",
+   "id": "C2026-086",
+   "needsSign": false,
+   "signedAt": "2026-10-22 15:58:12",
+   "status": "signed",
+   "summary": "Sale of MSS MPS Centenary raffle tickets.",
+   "title": "MSS MPS Centenary Raffle Tickets Sale"
+  }
+ ],
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-11-23T10:05:10Z"
 }
