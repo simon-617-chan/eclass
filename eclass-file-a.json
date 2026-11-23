@@ -64,7 +64,7 @@
     {
       "dueDate": "2026-11-27",
       "subject": "Maths",
-      "title": "Elf 1B (all) + self-check"
+      "title": "Elf 1B (all) + self-check (hand in on 27/11)"
     },
     {
       "subject": "Others",
@@ -190,10 +190,10 @@
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-23T20:58:53.381+08:00",
+    "user_local": "2026-11-23T21:59:49.189+08:00",
     "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-23T12:58:53.381Z"
+    "utc": "2026-11-23T13:59:49.189Z"
   },
   "studentName": "CHAN ON KIU SOPHELIA",
-  "syncedAt": "2026-11-23T13:05:54Z"
+  "syncedAt": "2026-11-23T14:09:25Z"
 }
