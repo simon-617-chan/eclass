@@ -1,7 +1,54 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am - 3:00 pm)"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Distribution of P.6 LAR"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Christmas Programme"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Staff Development Day (No School)"
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Christmas and New Year holidays"
+    }
+  ],
   "className": "1A",
-  "syncedAt": "2026-11-23T04:14:17Z",
+  "homeworkImageDate": "2026-11-20",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [],
   "notices": [
     {
       "id": "C2026-120",
@@ -114,53 +161,11 @@
       "title": "MSS MPS Centenary Raffle Tickets Sale"
     }
   ],
-  "homeworkToday": [],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-20",
-  "calendar": [
-    {
-      "date": "2026-11-27",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-11-28",
-      "title": "P.5 Overnight Wild Camp"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "National Constitution Day"
-    },
-    {
-      "date": "2026-12-04",
-      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-    },
-    {
-      "date": "2026-12-05",
-      "title": "PTA Outing (TBC)"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "School Picnic (8:00 am - 3:00 pm)"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "Distribution of P.6 LAR"
-    },
-    {
-      "date": "2026-12-17",
-      "title": "Christmas Programme"
-    },
-    {
-      "date": "2026-12-18",
-      "title": "Staff Development Day (No School)"
-    },
-    {
-      "date": "2026-12-21",
-      "title": "Christmas and New Year holidays"
-    }
-  ]
+  "retrieved_at": {
+    "user_local": "2026-11-23T12:15:13.383+08:00",
+    "user_timezone": "Asia/Hong_Kong",
+    "utc": "2026-11-23T04:15:13.383Z"
+  },
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-23T04:15:13Z"
 }
