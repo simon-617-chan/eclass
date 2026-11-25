@@ -1,7 +1,7 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-25T14:08:05Z",
+  "syncedAt": "2026-11-25T21:06:17Z",
   "notices": [
     {
       "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
@@ -70,40 +70,7 @@
       "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
     }
   ],
-  "homeworkToday": [
-    {
-      "subject": "中文",
-      "title": "語基 P.26 [P.24-25 查重]"
-    },
-    {
-      "subject": "English",
-      "title": "VB P.7"
-    },
-    {
-      "subject": "English",
-      "title": "WIR corr + sign"
-    },
-    {
-      "subject": "English",
-      "title": "Read aloud LN P.1-2 (Wolf)"
-    },
-    {
-      "subject": "Maths",
-      "title": "BM P.24"
-    },
-    {
-      "subject": "Others",
-      "title": "FJ P.19"
-    },
-    {
-      "subject": "Others",
-      "title": "RME: Sign LPTs"
-    },
-    {
-      "subject": "Others",
-      "title": "普朗 (五) 生 5 次"
-    }
-  ],
+  "homeworkToday": [],
   "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
   "homeworkImageDate": "2026-11-25",
   "calendar": [
