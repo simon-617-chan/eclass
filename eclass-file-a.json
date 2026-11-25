@@ -1,7 +1,95 @@
 {
- "studentName": "CHAN ON KIU SOPHELIA",
+ "calendar": [
+  {
+   "date": "2026-11-27",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-11-28",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "National Constitution Day"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "PTA Outing (TBC)"
+  },
+  {
+   "date": "2026-12-07",
+   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "School Picnic (8:00 am -3:00 pm)"
+  },
+  {
+   "date": "2026-12-15",
+   "title": "Distribution of P.6 LAR"
+  },
+  {
+   "date": "2026-12-17",
+   "title": "Christmas Programme"
+  },
+  {
+   "date": "2026-12-18",
+   "title": "Staff Development Day (No School)"
+  },
+  {
+   "date": "2026-12-21",
+   "title": "Christmas and New Year holidays"
+  },
+  {
+   "date": "2026-12-22",
+   "title": "Christmas and New Year holidays"
+  },
+  {
+   "date": "2026-12-23",
+   "title": "Christmas and New Year holidays"
+  }
+ ],
  "className": "1A",
- "syncedAt": "2026-11-25T09:06:32Z",
+ "homeworkImageDate": "2026-11-25",
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkToday": [
+  {
+   "subject": "中文",
+   "title": "語基 P.26 [P.24-25 堂課]"
+  },
+  {
+   "subject": "English",
+   "title": "VB P.7"
+  },
+  {
+   "subject": "English",
+   "title": "WIR corr + sign"
+  },
+  {
+   "subject": "English",
+   "title": "Read aloud LN P.1-2 (Wolf)"
+  },
+  {
+   "subject": "Maths",
+   "title": "BM P.24"
+  },
+  {
+   "subject": "Others",
+   "title": "FJ P.19"
+  },
+  {
+   "subject": "Others",
+   "title": "RME: Sign LPTs"
+  },
+  {
+   "subject": "Others",
+   "title": "普朗 (五) 生 5 次"
+  }
+ ],
  "notices": [
   {
    "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
@@ -70,75 +158,11 @@
    "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
   }
  ],
- "homeworkToday": [
-  "中文: 語基 P.26 [P.24-25 堂課]",
-  "English: VB P.7",
-  "English: WIR corr + sign",
-  "English: Read aloud LN P.1-2 (Wolf)",
-  "Maths: BM P.24",
-  "Others: FJ P.19",
-  "Others: RME: Sign LPTs",
-  "Others: 普朗 (五) 生 5 次"
- ],
- "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkImageDate": "2026-11-25",
- "calendar": [
-  {
-   "date": "2026-11-27",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-11-28",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "National Constitution Day"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-  },
-  {
-   "date": "2026-12-05",
-   "title": "PTA Outing (TBC)"
-  },
-  {
-   "date": "2026-12-07",
-   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-  },
-  {
-   "date": "2026-12-11",
-   "title": "School Picnic (8:00 am - 3:00 pm)"
-  },
-  {
-   "date": "2026-12-15",
-   "title": "Distribution of P.6 LAR"
-  },
-  {
-   "date": "2026-12-17",
-   "title": "Christmas Programme"
-  },
-  {
-   "date": "2026-12-18",
-   "title": "Staff Development Day (No School)"
-  },
-  {
-   "date": "2026-12-21",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-22",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-23",
-   "title": "Christmas and New Year holidays"
-  }
- ],
  "retrieved_at": {
-  "user_local": "2026-11-25T17:06:32.744+08:00",
+  "user_local": "2026-11-25T16:59:18.411+08:00",
   "user_timezone": "Asia/Hong_Kong",
-  "utc": "2026-11-25T09:06:32.744Z"
- }
+  "utc": "2026-11-25T08:59:18.411Z"
+ },
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-11-25T09:10:41Z"
 }
