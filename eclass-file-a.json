@@ -61,16 +61,46 @@
     "homeworkImageDate": "2026-11-26",
     "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
     "homeworkToday": [
-        "Chinese: 明賦書",
-        "Chinese: 生（八）四組詞+改正",
-        "English: VB P.7 corr",
-        "English: RW P.27-28 corr + do P.29-30",
-        "English: Bring LN / SWB",
-        "Maths: WB P.14-15",
-        "Maths: Hand in Elf 1B (all) tmr",
-        "Others: Hum WB p.8-11",
-        "Others: BT WS (on Mon)",
-        "Remarks: Bring S1 HANB (yellow)"
+        {
+            "subject": "中文",
+            "title": "明賦書"
+        },
+        {
+            "subject": "中文",
+            "title": "生（八）四組詞+改正"
+        },
+        {
+            "subject": "English",
+            "title": "VB P.7 corr"
+        },
+        {
+            "subject": "English",
+            "title": "RW P.27-28 corr + do P.29-30"
+        },
+        {
+            "subject": "English",
+            "title": "Bring LN / SWB"
+        },
+        {
+            "subject": "Mathematics",
+            "title": "WB P.14-15"
+        },
+        {
+            "subject": "Mathematics",
+            "title": "Hand in Elf 1B (all) tmr"
+        },
+        {
+            "subject": "Others",
+            "title": "Hum WB p.8-11"
+        },
+        {
+            "subject": "Others",
+            "title": "BT WS (on Mon)"
+        },
+        {
+            "subject": "Remarks",
+            "title": "Bring S1 HANB (yellow)"
+        }
     ],
     "notices": [
         {
@@ -146,5 +176,5 @@
         "utc": "2026-11-26T11:57:22.009Z"
     },
     "studentName": "CHAN ON KIU SOPHELIA",
-    "syncedAt": "2026-11-26T12:03:19Z"
+    "syncedAt": "2026-11-26T12:04:15Z"
 }
