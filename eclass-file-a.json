@@ -1,180 +1,175 @@
 {
-    "calendar": [
-        {
-            "date": "2026-11-27",
-            "title": "P.5 Overnight Wild Camp"
-        },
-        {
-            "date": "2026-11-28",
-            "title": "P.5 Overnight Wild Camp"
-        },
-        {
-            "date": "2026-12-04",
-            "title": "National Constitution Day"
-        },
-        {
-            "date": "2026-12-04",
-            "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-        },
-        {
-            "date": "2026-12-05",
-            "title": "PTA Outing (TBC)"
-        },
-        {
-            "date": "2026-12-07",
-            "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-        },
-        {
-            "date": "2026-12-11",
-            "title": "School Picnic (8:00 am - 3:00 pm)"
-        },
-        {
-            "date": "2026-12-15",
-            "title": "Distribution of P.6 LAR"
-        },
-        {
-            "date": "2026-12-17",
-            "title": "Christmas Programme"
-        },
-        {
-            "date": "2026-12-18",
-            "title": "Staff Development Day (No School)"
-        },
-        {
-            "date": "2026-12-21",
-            "title": "Christmas and New Year holidays"
-        },
-        {
-            "date": "2026-12-22",
-            "title": "Christmas and New Year holidays"
-        },
-        {
-            "date": "2026-12-23",
-            "title": "Christmas and New Year holidays"
-        },
-        {
-            "date": "2026-12-24",
-            "title": "Christmas and New Year holidays"
-        }
-    ],
-    "className": "1A",
-    "homeworkImageDate": "2026-11-26",
-    "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-    "homeworkToday": [
-        {
-            "subject": "中文",
-            "title": "明賦書"
-        },
-        {
-            "subject": "中文",
-            "title": "生（八）四組詞+改正"
-        },
-        {
-            "subject": "English",
-            "title": "VB P.7 corr"
-        },
-        {
-            "subject": "English",
-            "title": "RW P.27-28 corr + do P.29-30"
-        },
-        {
-            "subject": "English",
-            "title": "Bring LN / SWB"
-        },
-        {
-            "subject": "Mathematics",
-            "title": "WB P.14-15"
-        },
-        {
-            "subject": "Mathematics",
-            "title": "Hand in Elf 1B (all) tmr"
-        },
-        {
-            "subject": "Others",
-            "title": "Hum WB p.8-11"
-        },
-        {
-            "subject": "Others",
-            "title": "BT WS (on Mon)"
-        },
-        {
-            "subject": "Remarks",
-            "title": "Bring S1 HANB (yellow)"
-        }
-    ],
-    "notices": [
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
-            "date": "2026-11-23",
-            "deadline": "2026-11-26",
-            "id": "C2026-120",
-            "needsSign": false,
-            "signedAt": "2026-11-24 09:45:55",
-            "status": "signed",
-            "summary": "Parent-Teacher Interview for P.1-P.4 on Saturday 9 January 2027, by appointment with class teachers; Learning Progress Report (P.1) given out. Reply by 26 November 2026 with preferred time slot (8:00-10:30am, 10:30am-12:30pm or 1:30-4:00pm). Signed choice: 10:30am-12:30pm.",
-            "title": "Parent-Teacher Interview"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
-            "date": "2026-11-23",
-            "deadline": "2026-11-30",
-            "id": "C2026-119",
-            "needsSign": false,
-            "signedAt": "2026-11-24 09:45:21",
-            "status": "signed",
-            "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: would like to join.",
-            "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
-            "date": "2026-11-20",
-            "deadline": "2026-11-27",
-            "id": "C2026-118-P1-2",
-            "needsSign": false,
-            "signedAt": "2026-11-22 09:35:47",
-            "status": "signed",
-            "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
-            "title": "School Picnic 2026-27 (P.1, P.2)"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1sxjmRCHGJKFu1_NFIcImuOWFMPsyuSY0/preview",
-            "date": "2026-11-20",
-            "deadline": "2026-11-26",
-            "id": "C2026-117",
-            "needsSign": false,
-            "signedAt": "2026-11-22 09:37:35",
-            "status": "signed",
-            "summary": "Reading Team invites parent volunteers for P.1-P.2 storytelling during Flow Time 1:50-2:45pm; reply records whether to serve and preferred Monday dates 11 Jan / 18 Jan / 25 Jan / 1 Feb 2027. Signed reply: would not like to serve.",
-            "title": "Reading Mom and Dad"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview",
-            "date": "2026-11-19",
-            "deadline": "2026-11-26",
-            "id": "C2026-115",
-            "needsSign": false,
-            "signedAt": "2026-11-22 09:34:58",
-            "status": "signed",
-            "summary": "Invitation to Parent Talks (December) - Jockey Club Family Resilience Project. Two free online talks 10:00-11:30am: Tue 8 Dec and Wed 9 Dec 2026. Signed reply: would like to join.",
-            "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
-        },
-        {
-            "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-            "date": "2026-11-13",
-            "deadline": "2026-12-04",
-            "id": "C2026-108",
-            "needsSign": false,
-            "signedAt": "2026-11-17 06:47:33",
-            "status": "signed",
-            "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
-            "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
-        }
-    ],
-    "retrieved_at": {
-        "user_local": "2026-11-26T19:57:22.009+08:00",
-        "user_timezone": "Asia/Hong_Kong",
-        "utc": "2026-11-26T11:57:22.009Z"
-    },
-    "studentName": "CHAN ON KIU SOPHELIA",
-    "syncedAt": "2026-11-26T12:04:15Z"
+ "calendar": [
+  {
+   "date": "2026-11-27",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-11-28",
+   "title": "P.5 Overnight Wild Camp"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "National Constitution Day"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "PTA Outing (TBC)"
+  },
+  {
+   "date": "2026-12-07",
+   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "School Picnic (8:00 am - 3:00 pm)"
+  },
+  {
+   "date": "2026-12-15",
+   "title": "Distribution of P.6 LAR"
+  },
+  {
+   "date": "2026-12-17",
+   "title": "Christmas Programme"
+  },
+  {
+   "date": "2026-12-18",
+   "title": "Staff Development Day (No School)"
+  },
+  {
+   "date": "2026-12-21",
+   "title": "Christmas and New Year holidays"
+  },
+  {
+   "date": "2026-12-22",
+   "title": "Christmas and New Year holidays"
+  },
+  {
+   "date": "2026-12-23",
+   "title": "Christmas and New Year holidays"
+  },
+  {
+   "date": "2026-12-24",
+   "title": "Christmas and New Year holidays"
+  }
+ ],
+ "className": "1A",
+ "homeworkImageDate": "2026-11-26",
+ "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+ "homeworkToday": [
+  {
+   "subject": "中文",
+   "title": "明賦書"
+  },
+  {
+   "subject": "中文",
+   "title": "生（八）四組詞+改正"
+  },
+  {
+   "subject": "English",
+   "title": "VB P.7 corr"
+  },
+  {
+   "subject": "English",
+   "title": "RW P.27-28 corr + do P.29-30"
+  },
+  {
+   "subject": "English",
+   "title": "Bring LN / SWB"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "WB P.14-15"
+  },
+  {
+   "subject": "Mathematics",
+   "title": "Hand in Elf 1B (all) tmr"
+  },
+  {
+   "subject": "Others",
+   "title": "Hum WB p.8-11"
+  },
+  {
+   "subject": "Others",
+   "title": "BT WS (on Mon)"
+  },
+  {
+   "subject": "Remarks",
+   "title": "Bring S1 HANB (yellow)"
+  }
+ ],
+ "notices": [
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1iaRgTdzUfr3RnrJ12H6xipRAF9u15D7j/preview",
+   "date": "2026-11-23",
+   "deadline": "2026-11-26",
+   "id": "C2026-120",
+   "needsSign": false,
+   "signedAt": "2026-11-24 09:45:55",
+   "status": "signed",
+   "summary": "Parent-Teacher Interview for P.1-P.4 on Saturday 9 January 2027, by appointment with class teachers; Learning Progress Report (P.1) given out. Reply by 26 November 2026 with preferred time slot (8:00-10:30am, 10:30am-12:30pm or 1:30-4:00pm). Signed choice: 10:30am-12:30pm.",
+   "title": "Parent-Teacher Interview"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
+   "date": "2026-11-23",
+   "deadline": "2026-11-30",
+   "id": "C2026-119",
+   "needsSign": false,
+   "signedAt": "2026-11-24 09:45:21",
+   "status": "signed",
+   "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: would like to join.",
+   "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
+   "date": "2026-11-20",
+   "deadline": "2026-11-27",
+   "id": "C2026-118-P1-2",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:35:47",
+   "status": "signed",
+   "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
+   "title": "School Picnic 2026-27 (P.1, P.2)"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1sxjmRCHGJKFu1_NFIcImuOWFMPsyuSY0/preview",
+   "date": "2026-11-20",
+   "deadline": "2026-11-26",
+   "id": "C2026-117",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:37:35",
+   "status": "signed",
+   "summary": "Reading Team invites parent volunteers for P.1-P.2 storytelling during Flow Time 1:50-2:45pm; reply records whether to serve and preferred Monday dates 11 Jan / 18 Jan / 25 Jan / 1 Feb 2027. Signed reply: would not like to serve.",
+   "title": "Reading Mom and Dad"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1obcxwgozBjnRmynUOOu1ba9H9CXMOaoT/preview",
+   "date": "2026-11-19",
+   "deadline": "2026-11-26",
+   "id": "C2026-115",
+   "needsSign": false,
+   "signedAt": "2026-11-22 09:34:58",
+   "status": "signed",
+   "summary": "Invitation to Parent Talks (December) - Jockey Club Family Resilience Project. Two free online talks 10:00-11:30am: Tue 8 Dec and Wed 9 Dec 2026. Signed reply: would like to join.",
+   "title": "Invitation to Parent Talks (December) – Jockey Club Family Resilience Project Re「抗逆有家」家長學堂"
+  },
+  {
+   "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
+   "date": "2026-11-13",
+   "deadline": "2026-12-04",
+   "id": "C2026-108",
+   "needsSign": false,
+   "signedAt": "2026-11-17 06:47:33",
+   "status": "signed",
+   "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
+   "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
+  }
+ ],
+ "studentName": "CHAN ON KIU SOPHELIA",
+ "syncedAt": "2026-11-26T13:07:36Z"
 }
