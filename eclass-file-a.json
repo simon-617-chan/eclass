@@ -1,11 +1,11 @@
 {
   "studentName": "CHAN ON KIU SOPHELIA",
   "className": "1A",
-  "syncedAt": "2026-11-27T08:06:18Z",
+  "syncedAt": "2026-11-27T08:09:21Z",
   "retrieved_at": {
-    "user_local": "2026-11-27T16:06:18.000+08:00",
+    "user_local": "2026-11-27T16:09:21.000+08:00",
     "user_timezone": "Asia/Hong_Kong",
-    "utc": "2026-11-27T08:06:18.000Z"
+    "utc": "2026-11-27T08:09:21.000Z"
   },
   "notices": [
     {
@@ -15,7 +15,6 @@
       "deadline": "2026-11-30",
       "status": "pending",
       "needsSign": true,
-      "signedAt": null,
       "summary": "Road safety reminder for Blue Pool Road and Tai Hang Road, especially at dismissal (3:00pm) and after after-school activities (around 4:30pm). A traffic accident happened on 26 November near the Blue Pool Road No. 141 staircase when a domestic helper crossed directly to catch a bus; no one was seriously hurt. The school has invited the Police Traffic Branch to speak to students, reminded all students, and stationed staff at dismissal times. Parents are asked to use the nearby traffic lights, remind domestic helpers never to cross at the staircase, and arrange an adult to accompany their daughter to and from school. Enquiries: Deputy Principal Mr. William Chau (wchau@mps.edu.hk). Reply by 30 November 2026.",
       "attachmentUrl": "https://drive.google.com/file/d/1eJt4GaPXZ_n-7HYKqL7J79AI_esddDNk/preview"
     },
