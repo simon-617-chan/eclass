@@ -1,45 +1,4 @@
 {
-  "studentName": "CHAN ON KIU SOPHELIA",
-  "className": "1A",
-  "syncedAt": "2026-11-27T04:05:41Z",
-  "notices": [
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
-      "date": "2026-11-23",
-      "deadline": "2026-11-30",
-      "id": "C2026-119",
-      "needsSign": false,
-      "signedAt": "2026-11-24 09:45:21",
-      "status": "signed",
-      "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: would like to join.",
-      "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
-      "date": "2026-11-20",
-      "deadline": "2026-11-27",
-      "id": "C2026-118-P1-2",
-      "needsSign": false,
-      "signedAt": "2026-11-22 09:35:47",
-      "status": "signed",
-      "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
-      "title": "School Picnic 2026-27 (P.1, P.2)"
-    },
-    {
-      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-      "date": "2026-11-13",
-      "deadline": "2026-12-04",
-      "id": "C2026-108",
-      "needsSign": false,
-      "signedAt": "2026-11-17 06:47:33",
-      "status": "signed",
-      "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
-      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
-    }
-  ],
-  "homeworkToday": [],
-  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
-  "homeworkImageDate": "2026-11-26",
   "calendar": [
     {
       "date": "2026-11-27",
@@ -101,5 +60,64 @@
       "date": "2026-12-25",
       "title": "Christmas and New Year holidays"
     }
-  ]
+  ],
+  "className": "1A",
+  "homeworkImageDate": "2026-11-27",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [
+    {
+      "subject": "中文",
+      "title": "生（八） 3個8組詞+改正"
+    },
+    {
+      "subject": "English",
+      "title": "LN Ex1-2 (Wolf)"
+    },
+    {
+      "subject": "Maths",
+      "title": "MPS6"
+    }
+  ],
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
+      "date": "2026-11-23",
+      "deadline": "2026-11-30",
+      "id": "C2026-119",
+      "needsSign": false,
+      "signedAt": "2026-11-24 09:45:21",
+      "status": "signed",
+      "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: would like to join.",
+      "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
+      "date": "2026-11-20",
+      "deadline": "2026-11-27",
+      "id": "C2026-118-P1-2",
+      "needsSign": false,
+      "signedAt": "2026-11-22 09:35:47",
+      "status": "signed",
+      "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
+      "title": "School Picnic 2026-27 (P.1, P.2)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-12-04",
+      "id": "C2026-108",
+      "needsSign": false,
+      "signedAt": "2026-11-17 06:47:33",
+      "status": "signed",
+      "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
+      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-11-27T15:05:25.051+08:00",
+    "user_timezone": "Asia/Hong_Kong",
+    "utc": "2026-11-27T07:05:25.051Z"
+  },
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-27T07:05:25Z"
 }
