@@ -26,7 +26,7 @@
   },
   {
    "date": "2026-12-11",
-   "title": "School Picnic (8:00 am - 3:00 pm)"
+   "title": "School Picnic (8:00 am -3:00 pm)"
   },
   {
    "date": "2026-12-15",
@@ -54,10 +54,6 @@
   },
   {
    "date": "2026-12-24",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-25",
    "title": "Christmas and New Year holidays"
   }
  ],
@@ -97,7 +93,7 @@
    "needsSign": false,
    "signedAt": "2026-11-24 09:45:21",
    "status": "signed",
-   "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: would like to join.",
+   "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: contents noted (acknowledgement only; whether Sophelia enters the Elimination is not recorded in the reply).",
    "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
   },
   {
@@ -123,11 +119,6 @@
    "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
   }
  ],
- "retrieved_at": {
-  "user_local": "2026-11-27T17:59:56.174+08:00",
-  "user_timezone": "Asia/Hong_Kong",
-  "utc": "2026-11-27T09:59:56.174Z"
- },
  "studentName": "CHAN ON KIU SOPHELIA",
- "syncedAt": "2026-11-27T10:05:01Z"
+ "syncedAt": "2026-11-27T11:04:47Z"
 }
