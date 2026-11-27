@@ -1,124 +1,133 @@
 {
- "calendar": [
-  {
-   "date": "2026-11-27",
-   "title": "P.5 Overnight Wild Camp"
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "P.5 Overnight Wild Camp"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "National Constitution Day"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "PTA Outing (TBC)"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "School Picnic (8:00 am -3:00 pm)"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Distribution of P.6 LAR"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Christmas Programme"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Staff Development Day (No School)"
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Christmas and New Year holidays"
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Christmas and New Year holidays"
+    },
+    {
+      "date": "2026-12-23",
+      "title": "Christmas and New Year holidays"
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Christmas and New Year holidays"
+    },
+    {
+      "date": "2026-12-25",
+      "title": "Christmas and New Year holidays"
+    }
+  ],
+  "className": "1A",
+  "homeworkImageDate": "2026-11-27",
+  "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
+  "homeworkToday": [
+    {
+      "subject": "中文",
+      "title": "生（八） 3個8組詞+改正"
+    },
+    {
+      "subject": "English",
+      "title": "LN Ex1-2 (Wolf)"
+    },
+    {
+      "subject": "Maths",
+      "title": "MPS6"
+    }
+  ],
+  "notices": [
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1eJt4GaPXZ_n-7HYKqL7J79AI_esddDNk/preview",
+      "date": "2026-11-27",
+      "deadline": "2026-11-30",
+      "id": "C2026-127",
+      "needsSign": true,
+      "status": "pending",
+      "summary": "Road safety reminder for Blue Pool Road and Tai Hang Road, especially at dismissal (3:00pm) and after after-school activities (around 4:30pm). A traffic accident happened on 26 November near the Blue Pool Road No. 141 staircase when a domestic helper crossed directly to catch a bus; no one was seriously hurt. The school has invited the Police Traffic Branch to speak to students, reminded all students, and stationed staff at dismissal times. Parents are asked to use the nearby traffic lights, remind domestic helpers never to cross at the staircase, and arrange an adult to accompany their daughter to and from school. Enquiries: Deputy Principal Mr. William Chau (wchau@mps.edu.hk). Reply by 30 November 2026.",
+      "title": "Road Safety Reminder – Blue Pool Road and Tai Hang Road"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
+      "date": "2026-11-23",
+      "deadline": "2026-11-30",
+      "id": "C2026-119",
+      "needsSign": false,
+      "signedAt": "2026-11-24 09:45:21",
+      "status": "signed",
+      "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: contents noted (acknowledgement only; whether Sophelia enters the Elimination is not recorded in the reply).",
+      "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
+      "date": "2026-11-20",
+      "deadline": "2026-11-27",
+      "id": "C2026-118-P1-2",
+      "needsSign": false,
+      "signedAt": "2026-11-22 09:35:47",
+      "status": "signed",
+      "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
+      "title": "School Picnic 2026-27 (P.1, P.2)"
+    },
+    {
+      "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
+      "date": "2026-11-13",
+      "deadline": "2026-12-04",
+      "id": "C2026-108",
+      "needsSign": false,
+      "signedAt": "2026-11-17 06:47:33",
+      "status": "signed",
+      "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
+      "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-11-27T21:07:03+08:00",
+    "user_timezone": "Asia/Hong_Kong",
+    "utc": "2026-11-27T13:07:03Z"
   },
-  {
-   "date": "2026-11-28",
-   "title": "P.5 Overnight Wild Camp"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "National Constitution Day"
-  },
-  {
-   "date": "2026-12-04",
-   "title": "P.1-6 School Outreach Vaccination (2nd dose for specific students)"
-  },
-  {
-   "date": "2026-12-05",
-   "title": "PTA Outing (TBC)"
-  },
-  {
-   "date": "2026-12-07",
-   "title": "P.6 SSPA Parent Briefing 1 (Zoom)"
-  },
-  {
-   "date": "2026-12-11",
-   "title": "School Picnic (8:00 am -3:00 pm)"
-  },
-  {
-   "date": "2026-12-15",
-   "title": "Distribution of P.6 LAR"
-  },
-  {
-   "date": "2026-12-17",
-   "title": "Christmas Programme"
-  },
-  {
-   "date": "2026-12-18",
-   "title": "Staff Development Day (No School)"
-  },
-  {
-   "date": "2026-12-21",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-22",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-23",
-   "title": "Christmas and New Year holidays"
-  },
-  {
-   "date": "2026-12-24",
-   "title": "Christmas and New Year holidays"
-  }
- ],
- "className": "1A",
- "homeworkImageDate": "2026-11-27",
- "homeworkImageUrl": "https://drive.google.com/thumbnail?id=1Wn93FATgJC88MuhFDMm-vTq0UZLXYJjQ&sz=w1000",
- "homeworkToday": [
-  {
-   "subject": "中文",
-   "title": "生（八） 3個8組詞+改正"
-  },
-  {
-   "subject": "English",
-   "title": "LN Ex1-2 (Wolf)"
-  },
-  {
-   "subject": "Maths",
-   "title": "MPS6"
-  }
- ],
- "notices": [
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1eJt4GaPXZ_n-7HYKqL7J79AI_esddDNk/preview",
-   "date": "2026-11-27",
-   "deadline": "2026-11-30",
-   "id": "C2026-127",
-   "needsSign": true,
-   "status": "pending",
-   "summary": "Road safety reminder for Blue Pool Road and Tai Hang Road, especially at dismissal (3:00pm) and after after-school activities (around 4:30pm). A traffic accident happened on 26 November near the Blue Pool Road No. 141 staircase when a domestic helper crossed directly to catch a bus; no one was seriously hurt. The school has invited the Police Traffic Branch to speak to students, reminded all students, and stationed staff at dismissal times. Parents are asked to use the nearby traffic lights, remind domestic helpers never to cross at the staircase, and arrange an adult to accompany their daughter to and from school. Enquiries: Deputy Principal Mr. William Chau (wchau@mps.edu.hk). Reply by 30 November 2026.",
-   "title": "Road Safety Reminder – Blue Pool Road and Tai Hang Road"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1bZ2nkVhhFlRwEdeHAyvEugZ0QOdIBi-P/preview",
-   "date": "2026-11-23",
-   "deadline": "2026-11-30",
-   "id": "C2026-119",
-   "needsSign": false,
-   "signedAt": "2026-11-24 09:45:21",
-   "status": "signed",
-   "summary": "Invitation to the 2027 Asian English Usage Contest (Arch Cup). Elimination Round online 19 November-23 December 2026 (free); Heat Round 10 January 2027 at Scientia Secondary School, $340 per contestant, register by 23 December 2026 if passed. Reply by 30 November 2026. Signed reply: contents noted (acknowledgement only; whether Sophelia enters the Elimination is not recorded in the reply).",
-   "title": "Invitation to the 2027 Asian English Usage Contest (Arch Cup) Elimination & Heat Event"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1Qd7SSlbCysmNSYyUszwQAvVIZ565FQdP/preview",
-   "date": "2026-11-20",
-   "deadline": "2026-11-27",
-   "id": "C2026-118-P1-2",
-   "needsSign": false,
-   "signedAt": "2026-11-22 09:35:47",
-   "status": "signed",
-   "summary": "School picnic for P.1 and P.2 on Friday 11 December 2026, 8:00am-3:00pm at Lady MacLehose Holiday Village; $60 camp and transport fee by ePayment or crossed cheque to the class teacher by 27 November 2026; P.E. uniform, bring water and light lunch. Signed reply: parent joins, fee by ePayment.",
-   "title": "School Picnic 2026-27 (P.1, P.2)"
-  },
-  {
-   "attachmentUrl": "https://drive.google.com/file/d/1rfrOsDrURGzeZ8qn17rOv_XJtnp5lH8N/preview",
-   "date": "2026-11-13",
-   "deadline": "2026-12-04",
-   "id": "C2026-108",
-   "needsSign": false,
-   "signedAt": "2026-11-17 06:47:33",
-   "status": "signed",
-   "summary": "Family Connect - Expressing Love and Support (Summative Assessment 1). Parent message on the card and a photo presenting the certificate to be submitted via the school Google Form by 4 Dec 2026.",
-   "title": "Family Connect – Expressing Love and Support (Summative Assessment 1)"
-  }
- ],
- "studentName": "CHAN ON KIU SOPHELIA",
- "syncedAt": "2026-11-27T12:03:25Z"
+  "studentName": "CHAN ON KIU SOPHELIA",
+  "syncedAt": "2026-11-27T13:07:03Z"
 }
